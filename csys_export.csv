@@ -1,0 +1,1352 @@
+id;benutzer;kategorie;prio;sachbearbeiter;datum;titel
+1;benutzer128;Anderes Tool;1;supporter5;11.08.2011 16:16;Query - Klassenliste
+2;supporter5;Anderes Tool;2;supporter5;12.08.2011 12:30;Hochkommas im Leistungsbericht
+3;supporter5;Absenztool;3;supporter5;12.08.2011 12:39;Versch. Änderungen gemäss P. Biedermann
+4;supporter5;Anderes Tool;3;supporter5;12.08.2011 12:43;AIO-Datenimport, Scjhüler mit falschen Lehrmeistern
+5;supporter5;Anderes Tool;3;supporter5;12.08.2011 12:49;Schüleraccounts: Synch starten und Prüfen
+6;supporter5;Helpdesktool;3;supporter5;12.08.2011 12:53;Version 1 für 2011/2012
+7;benutzer22;Drucker;1;supporter2;14.08.2011 20:57;Drucker in Zimmer 101
+8;benutzer171;Anderes Tool;3;supporter5;15.08.2011 15:22;BSCW Zugang
+9;benutzer128;Anderes Tool;1;supporter5;16.08.2011 08:54;Klassenlisten
+10;benutzer128;Notenool;1;supporter5;16.08.2011 08:58;Semester
+11;benutzer128;Anderes Tool;1;supporter5;16.08.2011 09:03;Berechtigung
+12;benutzer79;Drucker;3;supporter12;16.08.2011 13:03;Drucker einrichten
+13;benutzer79;Lokales Netzwerk;3;supporter2;16.08.2011 13:11;Zugriff auf LW R ist nicht möglich
+14;benutzer180;Lokales Netzwerk;2;supporter2;16.08.2011 13:26;einloggen nicht möglich
+15;benutzer79;Lokales Netzwerk;3;supporter2;16.08.2011 16:00;Zugriff auf LW R ist nicht möglich
+16;benutzer140;Internet;2;supporter2;16.08.2011 17:52;http://sites.google.com/site/kve11wg2/
+17;benutzer140;Internet;2;supporter2;16.08.2011 17:55;Nachtrag zum vorigen Call
+18;benutzer116;Drucker;2;supporter2;17.08.2011 08:34;Drucker GISO_015_P1 funktioniert nicht
+20;benutzer151;PC-Programm;3;supporter2;17.08.2011 09:33;pc zi 311 / windows 7
+21;supporter2;Personalcomputer;2;supporter12;17.08.2011 09:50;PC im Zimmer 003
+22;benutzer172;Personalcomputer;2;supporter12;17.08.2011 10:45;Zimmer 012
+23;supporter14;Personalcomputer;1;supporter12;17.08.2011 11:00;Beamer Zi006
+24;supporter14;Mail;2;bruno.peyer;17.08.2011 11:04;SPAM
+25;benutzer148;Personalcomputer;3;supporter12;17.08.2011 17:24;Lehrer-PC, Pavillon, Zimmer: P18
+26;benutzer139;Personalcomputer;2;patrick.schlaepfer;18.08.2011 08:19;PC6 im Zimmer 008 
+27;benutzer111;Drucker;3;supporter2;18.08.2011 09:53;Standard Duplexdruck
+28;benutzer111;PC-Programm;2;supporter2;18.08.2011 09:56;Internet
+29;supporter16;Lokales Netzwerk;3;supporter2;18.08.2011 13:52;Kein Zugriff auf Laufwerk Verwaltung
+30;benutzer128;Mail;2;supporter2;18.08.2011 13:54;Berechtigung Zimmerreservationen EBZ
+31;supporter2;Personalcomputer;1;supporter2;18.08.2011 13:55;BBZ GR PC im Zimmer 304 
+32;supporter12;PC-Programm;1;supporter12;18.08.2011 14:21;Installation Zi 012
+33;supporter7;Drucker;2;supporter12;18.08.2011 16:14;Drcker GISO_P19_P1
+34;benutzer135;PC-Programm;3;supporter2;18.08.2011 16:39;Fehlende Software (Vizualizer Zi 202)
+35;benutzer203;PC-Programm;2;supporter2;19.08.2011 10:26;Druckerverbindung
+36;benutzer128;Mail;1;supporter2;19.08.2011 15:20;EBZ Personal schulen - Zimmerreservation
+37;benutzer128;Anderes Tool;1;supporter5;22.08.2011 07:57;Spalte Bemerkungen
+38;benutzer212;Personalcomputer;3;supporter12;22.08.2011 15:51;PC im Zimmer 302
+39;benutzer128;Lokales Netzwerk;1;supporter2;22.08.2011 15:56;wireless
+40;supporter2;Personalcomputer;1;supporter2;23.08.2011 11:41;BBZ Grenchen Zi306
+41;benutzer172;Windows;1;supporter12;23.08.2011 13:50;Zimmer 012
+42;benutzer180;PC-Programm;2;supporter12;23.08.2011 14:03;Pavillon
+43;supporter2;Helpdesktool;1;supporter5;23.08.2011 14:17;Kann Anhänge nicht öffnen
+44;bruno.peyer;Helpdesktool;1;supporter5;23.08.2011 14:36;Zuteilung
+46;bruno.peyer;Helpdesktool;1;supporter5;23.08.2011 15:03;Helpdesk-Account für Carloine.Dagli
+47;supporter2;PC-Programm;1;supporter2;24.08.2011 14:28;Vision KBS Solothurn
+48;supporter2;Personalcomputer;2;supporter2;24.08.2011 14:29;Zeitzentrum Maschinenraum
+49;supporter2;Lokales Netzwerk;1;supporter2;24.08.2011 15:03;Schüleraccounts 2011 eröffnen (BBZ Gr)
+50;benutzer91;Lokales Netzwerk;2;bruno.peyer;24.08.2011 16:47;CIS
+51;supporter12;Lokales Netzwerk;1;supporter12;25.08.2011 06:38;Neue Netzwerkdosen im Zi 107
+52;supporter16;Mail;2;bruno.peyer;25.08.2011 07:25;Kalender-Freigabe schulübergreifend
+53;benutzer128;Anderes Tool;1;supporter5;25.08.2011 07:30;Einsicht Allemann Thomas
+54;supporter2;Notenool;1;supporter5;25.08.2011 13:57;Regula Buob kann sich nicht anmelden
+55;supporter15;Anderes Tool;3;supporter5;25.08.2011 15:41;offene Calls
+56;supporter16;Notenool;2;supporter5;26.08.2011 06:19;Zugriff im Notentool
+57;supporter5;Windows;2;supporter12;26.08.2011 08:23;PC Zimmer 107: Profile readonly, falsche Tastatur
+58;patrick.schlaepfer;Lokales Netzwerk;1;supporter2;29.08.2011 11:06;VNP
+59;benutzer215;Lokales Netzwerk;2;patrick.schlaepfer;30.08.2011 07:34;Probleme mit Netzwerk
+60;supporter12;Lokales Netzwerk;1;supporter12;30.08.2011 07:34;Dosen patchen
+61;benutzer202;Personalcomputer;2;supporter12;30.08.2011 08:35;Beamer im Zi 112
+63;supporter2;PC-Programm;2;supporter2;30.08.2011 16:38;Clean&Copy
+64;supporter12;Personalcomputer;2;supporter12;31.08.2011 06:43;Informatikzimmer testen
+65;supporter12;Windows;2;supporter12;31.08.2011 06:44;Notebook Sekretariat
+66;benutzer186;Anderes Tool;2;supporter2;31.08.2011 08:03;Vision & Clean and Copy PC Zi 502
+67;supporter14;Mail;2;bruno.peyer;31.08.2011 11:26;Kommunikation BSCW / Mail
+68;supporter14;Personalcomputer;3;supporter12;31.08.2011 11:28;Geschwindigkeit im Zi006
+69;benutzer139;Personalcomputer;2;supporter12;31.08.2011 13:59;Z008, PC19
+70;benutzer139;Personalcomputer;1;supporter12;31.08.2011 15:01;Z008, PC19
+71;benutzer116;Drucker;3;supporter12;31.08.2011 16:47;Drucker GISO-015 Werkstattgebäude
+72;benutzer55;Internet;3;bruno.peyer;01.09.2011 08:28;Abrufen Emails Outlook Internet
+73;benutzer73;PC-Programm;1;bruno.peyer;01.09.2011 09:15;Clean&Copy
+74;benutzer70;Mail;2;supporter12;01.09.2011 10:39;webmail
+75;supporter12;Personalcomputer;2;supporter12;01.09.2011 15:03;Tastaturlayout
+76;supporter2;Drucker;1;supporter2;01.09.2011 16:40;Ricoh Drucker 
+77;supporter2;Internet;3;supporter2;01.09.2011 16:47;Internetausfall im BBZ Grenchen
+78;benutzer211;Lokales Netzwerk;2;supporter2;02.09.2011 09:32;Zimmer 401
+79;benutzer73;Personalcomputer;3;supporter2;02.09.2011 09:41;Bildschirmanzeige
+80;supporter2;Notenool;3;supporter5;02.09.2011 10:38;Regula Born hat kein Zugriff auf Tools
+81;supporter12;Personalcomputer;2;supporter12;05.09.2011 07:30;PC Zimmer 305
+82;supporter12;Lokales Netzwerk;3;supporter12;05.09.2011 07:38;Kein Netzwerk im SH2
+83;benutzer111;Drucker;3;supporter2;05.09.2011 08:16;Drucker 204
+84;benutzer83;Drucker;2;supporter12;05.09.2011 10:10;Farbdrucker SH2
+85;supporter12;Personalcomputer;2;supporter12;05.09.2011 10:52;ZI 006
+86;supporter12;Windows;2;supporter12;06.09.2011 14:38;Umstellung auf W7
+87;benutzer186;PC-Programm;1;supporter2;07.09.2011 08:22;PC Zi 502 - Druckerprobleme
+88;benutzer186;PC-Programm;2;supporter2;07.09.2011 09:00;PC Zi 502 - KBS50202
+89;supporter12;Lokales Netzwerk;1;supporter12;07.09.2011 10:37;SH 2
+90;benutzer73;Personalcomputer;1;supporter2;07.09.2011 13:00;PC lässt sich nicht mehr starten
+91;supporter15;Helpdesktool;2;supporter2;08.09.2011 09:11;EBZ, CallSys Instruktion
+93;supporter15;Lokales Netzwerk;3;supporter2;08.09.2011 09:24;EBZ, Kurs am Samstag, 10.9.11
+94;bruno.peyer;Mail;1;bruno.peyer;08.09.2011 10:08;SPAM Eric Schenk
+95;supporter2;Lokales Netzwerk;2;supporter2;08.09.2011 16:55;Clients Sekretariat KBSO
+96;supporter2;Lokales Netzwerk;3;supporter2;08.09.2011 16:57;Umstellung BBZ GR - Image Informatikzimmer
+97;benutzer202;Personalcomputer;3;supporter12;09.09.2011 07:45;Beamer Zimmer 112
+98;supporter2;Personalcomputer;2;supporter12;12.09.2011 11:07;PC ersetzen Zimmer P04
+99;benutzer148;Drucker;2;supporter12;12.09.2011 14:52;Druckerverbindungen Pavillon
+100;supporter12;Lokales Netzwerk;1;bruno.peyer;12.09.2011 15:58;Laufwerke der SH2 Lehrer
+101;benutzer154;Personalcomputer;3;supporter12;13.09.2011 11:38;Lehrerstation Zimmer 011
+102;benutzer73;PC-Programm;3;bruno.peyer;13.09.2011 12:21;Aktivierungsmeldung Office-Programme KBS Grenchen
+103;benutzer172;Windows;1;supporter2;14.09.2011 09:42;Zi 012 PC11
+104;supporter3;PC-Programm;2;supporter2;14.09.2011 11:18;Outlook EBZ
+106;supporter3;PC-Programm;2;supporter2;14.09.2011 12:05;Kontakte in Outlook EBZ wieder herstellen
+107;benutzer189;Personalcomputer;1;supporter2;14.09.2011 13:14;Abstürze
+108;supporter2;Internet;2;supporter2;14.09.2011 13:14;VPN im BBZ Grenchen
+109;supporter2;Internet;2;supporter2;14.09.2011 13:16;Zugriff auf Gebäudesteuerung Hauswarte von Aussen
+110;supporter2;PC-Programm;2;supporter2;14.09.2011 13:19;ABU Maurer LernCD
+112;benutzer14;PC-Programm;2;supporter2;14.09.2011 13:52;Browserfehler_Outlook EBZ
+113;benutzer14;PC-Programm;2;supporter2;14.09.2011 13:55;Outlook EBZ Anna
+115;benutzer180;Drucker;2;supporter12;14.09.2011 17:23;Drucker Giso P14 P1
+117;supporter15;PC-Programm;3;supporter2;15.09.2011 14:38;WW 2003 / 2010
+120;supporter15;Internet;2;supporter2;15.09.2011 15:43;IP-Adressierung der Schulen im BBZ
+121;supporter2;Drucker;3;supporter2;15.09.2011 16:37;BBZ GR_Installation neues Kopiergerät
+122;supporter2;Drucker;1;supporter2;15.09.2011 16:38;ZZ Grenchen_Kopiergerät ans Netz
+123;supporter12;Personalcomputer;2;supporter12;16.09.2011 07:09;GISO_P03_14
+124;benutzer131;Anderes Tool;1;supporter5;16.09.2011 10:35;Schüleraccounts
+125;supporter12;Drucker;2;supporter7;16.09.2011 10:52;Drucker GISO_P14_P1
+126;supporter2;Personalcomputer;2;supporter2;16.09.2011 11:46;Client ZZWerkstatt_startet mit Netcim
+127;supporter12;Notebook;1;supporter12;16.09.2011 13:30;Notebooks umbenennen
+128;benutzer14;Lokales Netzwerk;3;supporter2;16.09.2011 14:46;SIZ Prüfungsdateien verteilen, Zimmerkontrolle
+129;supporter12;Personalcomputer;2;supporter12;16.09.2011 17:04;Stundenplaner PC
+130;supporter2;PC-Programm;1;supporter2;19.09.2011 15:04;PDF drucken nicht möglich
+131;benutzer186;Internet;2;supporter2;20.09.2011 08:19;PC Zi 502 - PC Nr. 50220
+132;benutzer73;Drucker;3;supporter2;20.09.2011 10:40;Leere Druckerpatrone
+133;supporter15;PC-Programm;2;bruno.peyer;20.09.2011 14:32;Laptop Direktor
+134;supporter15;PC-Programm;2;bruno.peyer;20.09.2011 14:36;Callsys in der BBZ-Leitung vorstellen
+135;supporter12;Personalcomputer;3;supporter12;20.09.2011 16:10;GISO_201_01
+136;benutzer73;Personalcomputer;2;supporter2;21.09.2011 08:02;Defekte Maus
+137;benutzer14;PC-Programm;2;supporter2;21.09.2011 09:21;Outlook EBZ
+139;supporter12;Notebook;1;supporter12;21.09.2011 14:03;GISO_P14_M3
+140;bruno.peyer;Anderes Tool;1;supporter5;22.09.2011 09:20;Schüleraccounts GIGR
+141;benutzer128;Notenool;3;supporter5;22.09.2011 10:43;Klasse DHA11a
+142;supporter12;Personalcomputer;1;supporter12;22.09.2011 18:26;GISO_310_01
+143;supporter12;Lokales Netzwerk;3;bruno.peyer;22.09.2011 18:29;KIein Netzwerk im Zimmer P12
+144;benutzer95;Personalcomputer;3;supporter12;23.09.2011 10:58;videosplitter
+145;benutzer180;PC-Programm;3;bruno.peyer;23.09.2011 12:57;Beamer geht nicht 
+148;supporter12;PC-Programm;1;patrick.schlaepfer;23.09.2011 14:41;W7 Image LZ VBZ
+149;benutzer91;Windows;1;bruno.peyer;23.09.2011 15:08;PCs im CIS starten langsam
+150;benutzer172;PC-Programm;1;supporter12;26.09.2011 09:46;SolidEdge
+151;benutzer154;Lokales Netzwerk;2;supporter2;26.09.2011 11:35;Stundenpläne auf EDU-GIBS
+153;bruno.peyer;Helpdesktool;2;supporter5;26.09.2011 18:28;Zugang für Benutzer aus Grenchen
+154;supporter12;Drucker;1;supporter12;27.09.2011 06:37;P10
+155;benutzer83;Windows;1;supporter12;27.09.2011 11:09;PC mit Störungen
+156;benutzer218;Windows;1;supporter12;27.09.2011 11:41;Partition zu klein für Installation von Software
+157;supporter16;Notenool;3;supporter5;27.09.2011 14:56;Regula Born hat keinen Zugriff
+158;benutzer131;Lokales Netzwerk;2;bruno.peyer;28.09.2011 07:16;VPN einrichten auf meinem Notebook
+159;benutzer131;Personalcomputer;1;supporter12;28.09.2011 07:28;Wunsch nach mehr Übersicht
+160;benutzer31;Drucker;3;supporter2;28.09.2011 11:26;Staumeldungen non-stop
+161;benutzer180;PC-Programm;2;supporter12;28.09.2011 11:29;2 PCs Pavillon
+164;benutzer172;Helpdesktool;1;supporter5;29.09.2011 10:40;Anregung
+165;supporter12;Personalcomputer;1;patrick.schlaepfer;03.10.2011 07:49;GISO_016_02 deployen
+166;supporter12;PC-Programm;1;supporter12;03.10.2011 07:52;Smartboard U9, U11 und P12
+167;supporter12;Personalcomputer;3;supporter12;03.10.2011 08:28;Ausfall PC 310
+168;supporter3;PC-Programm;2;supporter2;06.10.2011 13:34;FTP Server_Schnittstelle Millenium-SAP
+169;supporter15;Mail;3;supporter10;10.10.2011 10:18;Wechsel der DNS-Namen der SPAM Filter
+170;benutzer143;PC-Programm;1;patrick.schlaepfer;17.10.2011 10:46;PC Zimmer P11
+171;benutzer215;Lokales Netzwerk;3;bruno.peyer;17.10.2011 14:18;Schulhaus 2
+172;benutzer14;PC-Programm;2;supporter2;18.10.2011 11:31;Outlook EBZ Posteingang
+173;benutzer14;PC-Programm;2;supporter2;20.10.2011 15:43;Photoshop CS4
+175;supporter5;Absenztool;2;supporter5;24.10.2011 14:21;Absenzen von ELT-Schülern in PKE-Klassen
+176;benutzer91;Drucker;2;supporter12;25.10.2011 09:49;Schwarz-Weiss Drucker
+177;benutzer61;Drucker;2;supporter12;25.10.2011 16:01;Druckerinstallation
+178;patrick.schlaepfer;Helpdesktool;1;patrick.schlaepfer;25.10.2011 16:16;Kompatiblität mit dem Internetexplorer
+179;benutzer73;PC-Programm;3;supporter2;25.10.2011 19:58;Fehlermeldung und defekte Mäuse
+180;benutzer131;Lokales Netzwerk;2;bruno.peyer;27.10.2011 16:43;Laufwerk Schulleitung
+181;benutzer111;Lokales Netzwerk;3;supporter2;28.10.2011 10:08;Zimmer 311
+182;benutzer186;PC-Programm;3;supporter2;31.10.2011 08:14;Word - Druckerprobleme 
+183;benutzer59;PC-Programm;1;supporter12;03.11.2011 13:16;Zimmer 211
+184;benutzer67;Personalcomputer;2;supporter12;04.11.2011 09:23;"\Fuss\"" an Tastatur abgebrochen."""
+185;benutzer67;Notebook;3;supporter12;04.11.2011 09:28;"\Abstürze\"" meines Notebooks"""
+186;supporter2;Personenverwaltung;3;supporter5;04.11.2011 11:29;Generierte Schüleraccounts, Klassen
+187;supporter12;PC-Programm;2;patrick.schlaepfer;08.11.2011 09:17;Smartboard SW für W7
+188;supporter15;Mail;3;bruno.peyer;08.11.2011 18:53;Accounts erstellen im OWA
+189;benutzer131;Personalcomputer;2;supporter12;10.11.2011 10:25;Zimmer 006
+190;benutzer128;Notenool;3;supporter5;15.11.2011 07:19;Klasse BA11B
+191;benutzer128;Notenool;3;supporter5;15.11.2011 07:20;Freifächer Büroassistenten und allgemein
+192;benutzer154;PC-Programm;2;supporter12;16.11.2011 10:58;Zi 310, Lehrer-PC
+193;benutzer9;PC-Programm;3;supporter12;17.11.2011 10:22;Grafikkarte Zi 310
+194;benutzer73;Personalcomputer;3;supporter2;17.11.2011 11:58;PC lässt sich nicht mehr starten
+195;supporter12;Personalcomputer;2;supporter12;21.11.2011 07:25;Smartboard U11
+196;supporter12;Personalcomputer;2;supporter12;21.11.2011 07:26;Smartboard P12
+197;benutzer73;Personalcomputer;3;supporter2;22.11.2011 09:47;Fehlermeldungen, Anmeldedauer
+199;benutzer111;PC-Programm;2;bruno.peyer;22.11.2011 16:01;Profil von Karin Flück
+200;benutzer186;PC-Programm;1;supporter2;23.11.2011 09:07;PC-Start und Anwendungsprogramme
+201;benutzer219;Personalcomputer;2;supporter7;24.11.2011 15:14;PC 3 Pavillon
+202;supporter15;Personalcomputer;1;supporter2;28.11.2011 08:46;PC Vorbereitungszimmer 208, BBZ Grenchen
+203;benutzer141;PC-Programm;3;supporter12;28.11.2011 14:58;PC Raum Pavillon
+204;benutzer107;Personalcomputer;1;supporter2;28.11.2011 16:14;Zimmer 401
+205;supporter12;Personalcomputer;1;supporter12;29.11.2011 08:57;Lehrstellenkonferenz
+207;benutzer180;PC-Programm;2;supporter12;29.11.2011 16:34;PC Pavillon
+208;benutzer60;Personalcomputer;3;supporter12;01.12.2011 13:38;ständige Updates und Restarts
+209;benutzer131;Drucker;2;supporter12;06.12.2011 08:22;permanenter Stau im Drucker
+210;benutzer139;Windows;1;supporter12;07.12.2011 14:57;Sound Shuttle-PCs 107
+211;benutzer172;Personalcomputer;2;supporter12;08.12.2011 10:41;PC23 Zi 012
+212;benutzer172;PC-Programm;2;supporter12;08.12.2011 10:42;Hardwareunterstützung
+213;benutzer73;Personalcomputer;3;supporter2;09.12.2011 11:49;PC lässt sich nicht starten
+214;benutzer206;PC-Programm;1;supporter2;12.12.2011 09:01;Drucker 319 / Monatskalender
+215;benutzer54;Internet;2;bruno.peyer;12.12.2011 15:10;Zugriff auf BSCW
+216;supporter16;Lokales Netzwerk;3;supporter2;13.12.2011 09:13;Beamer Zimmer 501 Rosengarten
+217;supporter12;Anderes Tool;1;supporter12;13.12.2011 09:28;Inventar
+218;benutzer180;PC-Programm;2;supporter12;13.12.2011 16:48;Maus funktioniert nicht mehr. Pavillon
+219;supporter14;Personalcomputer;2;supporter12;15.12.2011 13:50;PC im Zi006
+220;benutzer215;PC-Programm;1;bruno.peyer;21.12.2011 13:17;2. Mail Adresse löschen
+221;benutzer215;Windows;1;bruno.peyer;21.12.2011 13:24;Zugriff von Grenchen auf mein Laufwerk im Schulhaus 2
+222;supporter12;Personalcomputer;1;supporter12;22.12.2011 15:18;Austausch Beamer ZI 531
+223;supporter12;Drucker;1;supporter12;22.12.2011 15:20;Drucker Vorbereitungszimmer West
+224;benutzer73;Personalcomputer;3;supporter2;10.01.2012 12:22;Lautsprecher PC-Zimmer 311 in Grenchen
+225;supporter3;Anderes Tool;2;supporter2;11.01.2012 17:03;FTP-Server für Rechnungen
+226;benutzer206;Drucker;3;supporter2;12.01.2012 10:49;Drucker 318
+227;supporter14;Drucker;3;patrick.schlaepfer;12.01.2012 13:30;Drucker Zi006
+228;benutzer131;Internet;3;bruno.peyer;13.01.2012 08:44;W-Lan: kein Zugang
+229;benutzer111;PC-Programm;2;supporter2;13.01.2012 09:53;Zimmer 311
+230;benutzer186;PC-Programm;2;supporter2;13.01.2012 11:20;PC-Zi 502
+231;benutzer111;PC-Programm;3;supporter2;16.01.2012 17:13;Outlook im Zimmer 311 Grenchen
+232;patrick.schlaepfer;PC-Programm;2;patrick.schlaepfer;18.01.2012 09:15;Notebook Abu
+233;patrick.schlaepfer;Personalcomputer;1;patrick.schlaepfer;18.01.2012 09:42;RAM Testen
+234;benutzer148;Lokales Netzwerk;2;bruno.peyer;18.01.2012 13:07;Kalendereintragungen im Outlook
+235;supporter12;Lokales Netzwerk;1;bruno.peyer;24.01.2012 08:34;Homelaufwerk
+236;benutzer186;PC-Programm;2;supporter2;25.01.2012 09:03;PC Zi 502
+237;supporter2;Notenool;2;supporter5;26.01.2012 13:15;EBZ Zugriff auf Intranet
+238;benutzer111;Windows;2;supporter2;26.01.2012 16:38;Zimmer 204
+239;benutzer148;Windows;2;supporter12;26.01.2012 16:42;Softwarelizenzierung
+240;benutzer106;Lokales Netzwerk;2;supporter2;26.01.2012 19:11;Scannerfunktion Kopiergerät SH2
+241;benutzer106;PC-Programm;3;supporter12;27.01.2012 18:16;Logo GIBS auf Schulbericht
+242;benutzer186;PC-Programm;1;supporter2;30.01.2012 14:47;PC Zi 502 - PC Nr. 50210
+243;benutzer31;Personalcomputer;3;bruno.peyer;31.01.2012 14:50;PC-Nr. 14 und 20 starten nicht
+244;benutzer31;Drucker;2;bruno.peyer;31.01.2012 14:54;Drucker staut immer noch
+245;benutzer131;Mail;2;bruno.peyer;02.02.2012 17:05;fehlende Lehrpersonen  im Verteiler
+246;benutzer10;PC-Programm;1;patrick.schlaepfer;02.02.2012 17:11;Software für PC's
+247;supporter12;Personalcomputer;1;supporter12;08.02.2012 06:49;Dokkameras
+248;supporter12;Personalcomputer;1;supporter12;08.02.2012 06:53;Notebook für Korrekturtag 28.3.2012
+250;supporter12;PC-Programm;1;supporter12;08.02.2012 07:01;EBA Infotag im alten Spital 8. März
+252;supporter2;Personalcomputer;1;supporter2;17.02.2012 15:23;Neuer Schulnetzclient 
+253;benutzer60;Drucker;3;supporter12;18.02.2012 11:33;Power Kabel fehlt
+254;benutzer141;PC-Programm;2;supporter12;20.02.2012 11:32;Drucker
+255;supporter3;PC-Programm;2;supporter2;21.02.2012 11:31;Outlook web app (Zimmerreservationen KBS)
+257;benutzer148;PC-Programm;2;patrick.schlaepfer;22.02.2012 14:44;softwarelizenzierung
+258;benutzer148;PC-Programm;2;supporter12;22.02.2012 14:50;PCs PC-Raum Pavillon
+259;benutzer12;Personalcomputer;2;patrick.schlaepfer;27.02.2012 15:39;PC Zimmer 103
+260;benutzer186;Windows;2;supporter2;27.02.2012 17:09;Zi 502
+261;benutzer63;PC-Programm;1;patrick.schlaepfer;28.02.2012 07:26;RagClean Pro-Meldung
+262;benutzer73;Windows;3;supporter2;28.02.2012 19:38;PC startet nicht mehr
+263;supporter14;Lokales Netzwerk;3;supporter10;29.02.2012 07:47;Wartezeit bei Anmeldung an Domäne
+264;benutzer66;Personalcomputer;1;supporter12;29.02.2012 14:07;Monitor im Zimmer 112 in Power Safe Mode
+265;benutzer111;PC-Programm;3;supporter2;29.02.2012 17:26;Zimmer 204
+266;supporter2;Helpdesktool;2;supporter5;01.03.2012 11:30;Helpdesk von BBZ Grenchen
+267;benutzer31;PC-Programm;3;supporter2;06.03.2012 11:44;Outlook
+269;supporter12;Drucker;1;supporter12;06.03.2012 15:12;Drucker P 19
+274;benutzer219;Mail;3;supporter2;06.03.2012 16:37;Webmail
+275;benutzer171;Mail;1;supporter2;07.03.2012 08:14;Kein Zugang 
+276;benutzer151;PC-Programm;2;supporter12;07.03.2012 14:18;PC 309-2 in ZI309
+277;benutzer73;PC-Programm;3;supporter2;08.03.2012 09:47;PC nicht mehr starten
+278;benutzer219;PC-Programm;2;patrick.schlaepfer;08.03.2012 16:27;PC-Raum Pavillon
+279;supporter15;Drucker;2;patrick.schlaepfer;09.03.2012 08:12;Schliergt
+280;benutzer67;Windows;1;patrick.schlaepfer;09.03.2012 14:07;Outlook Web App auf Notebook
+281;benutzer131;Drucker;2;supporter2;12.03.2012 08:32;Farbdrucker in P14 ist offline
+282;supporter15;Lokales Netzwerk;2;bruno.peyer;12.03.2012 14:15;Anmeldezeit in Grenchen
+283;benutzer106;PC-Programm;2;patrick.schlaepfer;12.03.2012 14:28;PC GIS2_520_01
+284;benutzer202;Windows;1;patrick.schlaepfer;13.03.2012 08:32;Echtheit dieser Windows Kopie ....
+285;benutzer20;Mail;2;patrick.schlaepfer;13.03.2012 09:39;Fehlermeldung im Exchange
+286;supporter5;Mail;2;supporter2;16.03.2012 16:57;Geschwindigkeit Suchen Webmail
+287;supporter12;Drucker;2;supporter7;19.03.2012 07:27;Drucker 512 SH 2 
+288;benutzer141;PC-Programm;3;patrick.schlaepfer;19.03.2012 09:29;PC P02
+289;bruno.peyer;Windows;1;supporter12;19.03.2012 13:46;neu Aufsetzen von P02_02
+290;benutzer73;PC-Programm;3;supporter2;20.03.2012 13:07;Vision Grenchen
+291;benutzer91;Windows;2;bruno.peyer;20.03.2012 15:20;verm. Virus auf PC im CIS
+292;benutzer148;Windows;3;patrick.schlaepfer;21.03.2012 11:20;Ungültiger Volumenlizenzschlüssel
+293;benutzer60;Personalcomputer;2;supporter12;22.03.2012 12:14;Kontrast wegen Switchbox(?) ungenügend 
+294;benutzer111;PC-Programm;1;supporter2;23.03.2012 10:30;Vision
+295;benutzer5;Internet;1;bruno.peyer;23.03.2012 23:02;keine VPN-Verbindung möglich
+296;supporter15;Drucker;1;bruno.peyer;27.03.2012 06:39;GISO_00D_P1
+297;supporter15;Mail;2;supporter2;27.03.2012 11:49;Natelsynchronisation Rolf Schütz
+299;benutzer172;Lokales Netzwerk;2;supporter12;27.03.2012 14:53;Zimmer 012
+300;benutzer14;Lokales Netzwerk;1;supporter2;28.03.2012 10:30;Back-up Bändli
+301;benutzer151;PC-Programm;2;supporter5;28.03.2012 11:47;Login / Laufwerk Klassen
+302;supporter14;PC-Programm;3;bruno.peyer;02.04.2012 09:32;Webmail+Firefox
+303;benutzer186;Internet;2;supporter2;02.04.2012 11:39;Video
+304;benutzer73;Personalcomputer;2;supporter2;03.04.2012 09:40;PC kann nicht starten
+306;benutzer180;PC-Programm;2;bruno.peyer;04.04.2012 16:42;Pavillon PC-Raum
+307;supporter12;Personalcomputer;2;supporter12;05.04.2012 06:03;311 in Grenchen 
+308;supporter12;Personalcomputer;2;supporter12;05.04.2012 06:04;401 Solothurn
+309;supporter12;Personalcomputer;1;supporter12;05.04.2012 06:25;neue Pcs im Pavillon
+310;supporter12;Personalcomputer;1;supporter12;05.04.2012 06:25;neue Pcs im ZI 010
+311;supporter12;Personalcomputer;1;supporter12;05.04.2012 06:27;neue Pcs im ZI 006
+312;benutzer226;Lokales Netzwerk;2;supporter2;23.04.2012 15:01;GIBS Grenchen Z307, Lehrer-PC
+313;supporter12;Personalcomputer;1;patrick.schlaepfer;25.04.2012 08:36;ZI 012 
+314;supporter12;Notebook;1;supporter12;25.04.2012 08:37;Ersatznotebook
+315;supporter12;Personalcomputer;1;supporter12;25.04.2012 08:38;Zi 008
+316;supporter5;Mail;2;bruno.peyer;25.04.2012 14:37;Mail an externe Email-Adressen
+317;benutzer111;PC-Programm;3;supporter2;26.04.2012 07:15;Zimmer 204
+318;benutzer73;PC-Programm;3;supporter2;26.04.2012 15:18;PC-Probleme Zimmer 309 Solothurn
+319;benutzer111;PC-Programm;3;supporter2;26.04.2012 17:15;Zimmer 204
+321;supporter12;Personalcomputer;1;supporter12;01.05.2012 07:11;Test Informatikzimmer
+322;benutzer226;Mail;2;supporter2;02.05.2012 09:16;Mail
+323;supporter15;Windows;1;bruno.peyer;02.05.2012 16:17;Ausbildung von Flavia Totti
+324;supporter15;Drucker;3;bruno.peyer;02.05.2012 16:21;Drucken in den Informatikzimmern in Grenchen
+325;supporter15;Helpdesktool;1;supporter5;02.05.2012 16:49;erfassen eines Callusers
+326;benutzer111;PC-Programm;3;supporter2;02.05.2012 19:32;Zimmer 204
+327;benutzer172;Personalcomputer;2;supporter12;03.05.2012 08:35;Zimmer 012, PC6
+328;benutzer172;Personalcomputer;2;supporter12;03.05.2012 08:37;"\Stehender PC\"""""
+329;benutzer172;Personalcomputer;2;supporter12;03.05.2012 08:37;Lehrerstation Zi012
+330;benutzer172;Personalcomputer;1;supporter12;03.05.2012 08:39;Fehlernder Rechner
+331;benutzer84;PC-Programm;3;supporter12;07.05.2012 06:47;PC im Zi 307
+332;benutzer151;PC-Programm;1;supporter7;07.05.2012 08:42;Neuer Kopierer Zi303
+333;benutzer186;PC-Programm;2;supporter2;07.05.2012 08:47;PC Zi 502 - Station 50214
+334;blj-support;Personalcomputer;3;supporter12;07.05.2012 10:08;Test Informatikzimmer
+335;blj-support;Personalcomputer;1;blj-support;07.05.2012 10:14;Test Informatikzimmer durch Lernende
+336;benutzer131;Drucker;2;supporter12;08.05.2012 08:55;Stau
+337;supporter3;Mail;2;bruno.peyer;08.05.2012 10:14;Beschädigte Mails
+338;benutzer111;PC-Programm;3;supporter2;08.05.2012 18:21;Zimmer 204
+339;benutzer226;Personalcomputer;2;supporter2;10.05.2012 07:59;"\Profilspeicherplatz ausgelastet\"""""
+340;benutzer186;PC-Programm;3;supporter2;11.05.2012 09:16;PC-Zi 502 - Station 50214
+342;benutzer186;PC-Programm;2;supporter2;15.05.2012 09:53;PC Zi 502
+343;benutzer31;PC-Programm;3;supporter2;21.05.2012 12:18;PC-Nr. 01 im Zi. 401, KBS Solothurn
+344;supporter2;Personalcomputer;1;supporter2;22.05.2012 08:45;Wiederholte Fehlermeldung
+345;benutzer172;PC-Programm;3;supporter12;22.05.2012 13:31;Lern CD Version 3
+346;benutzer172;Personalcomputer;2;supporter12;23.05.2012 10:58;CD/DVD Laufwerke gehen nicht auf
+347;benutzer172;PC-Programm;1;supporter12;23.05.2012 11:12;Betr. Call 246
+348;benutzer172;PC-Programm;1;supporter12;23.05.2012 11:45;Nochmal Call 346
+349;benutzer154;Lokales Netzwerk;2;supporter12;23.05.2012 15:15;Netzwerklaufwerke Zi 010
+350;supporter2;Absenztool;3;supporter5;24.05.2012 15:55;Zugang Ronald Vetter
+351;supporter6;Anderes Tool;1;supporter5;31.05.2012 14:45;Schülerfeedback für Kl. UHRM2x
+352;benutzer108;Drucker;2;patrick.schlaepfer;04.06.2012 14:24;Ständiger Papierstau im GISO_P14_P1
+353;supporter15;Personalcomputer;2;supporter2;06.06.2012 12:06;Arbeitsplatz Rosy Werthmüller / PC
+354;supporter12;Personalcomputer;1;supporter12;11.06.2012 15:20;Anpassung Grösse Image P15
+356;benutzer111;PC-Programm;3;supporter2;21.06.2012 08:02;Kein Vision auf Lehrer PC
+357;supporter2;Drucker;1;supporter2;25.06.2012 11:53;Drucker Zi318 BBZ Grenchen
+358;benutzer60;Mail;2;supporter5;26.06.2012 10:58;"\Sicherheitsmeldung\"" Fortigate/gmail.com"""
+359;benutzer111;PC-Programm;1;bruno.peyer;26.06.2012 14:44;Zimmer 204
+360;benutzer115;Windows;2;supporter12;28.06.2012 06:54;PC Zimmer 004
+361;supporter15;Personalcomputer;2;supporter12;04.07.2012 10:53;4 zusätzliche PCs für das SHII
+362;benutzer116;Personalcomputer;1;supporter12;04.07.2012 11:01;Zi 015 Computer-Start
+363;supporter2;Personalcomputer;1;supporter2;06.07.2012 13:06;KBSO_406_01
+364;supporter6;Lokales Netzwerk;2;supporter2;10.07.2012 16:24;Neue Lehrer Accounts GIBS Grenchen
+365;supporter6;Lokales Netzwerk;2;supporter2;10.07.2012 16:30;neue Lehrer Accounts ZeitZentrum
+366;supporter12;Windows;2;supporter12;16.07.2012 08:31;PC Beat Pahud
+367;supporter15;Lokales Netzwerk;3;supporter12;19.07.2012 10:13;Passwörter / Handhabung
+368;benutzer131;Personenverwaltung;3;supporter12;06.08.2012 11:40;Passwort von M. Schluep zurücksetzen
+369;benutzer56;Lokales Netzwerk;2;supporter5;06.08.2012 14:48;Bereichslaufwerke
+370;benutzer108;Mail;3;supporter5;08.08.2012 15:51;Schul-Outlook Pendenzen
+371;benutzer212;Personalcomputer;3;supporter12;09.08.2012 09:18;Zusätzlicher PC für Zimmer 304 (Hauptgebäude)
+372;supporter12;Drucker;2;supporter7;13.08.2012 06:36;Drucker 308
+373;supporter12;Drucker;2;supporter7;13.08.2012 06:37;Scanner 303
+374;benutzer108;Personenverwaltung;3;supporter12;13.08.2012 19:53;Passwort Madeleine Schluep
+375;benutzer131;Drucker;3;supporter12;14.08.2012 10:28;Beide Drucker störungsanfällig bis k.o,.
+376;benutzer91;PC-Programm;3;supporter12;14.08.2012 14:16;Weiterhin Problem GISO_P14_ P2
+377;benutzer180;Windows;2;supporter2;14.08.2012 17:34;Irrtümlicherweise gelöschte Datei
+378;supporter5;Beamer;3;supporter12;18.08.2012 10:51;Beamer in Zimmer 107 findet Quelle nicht
+379;benutzer151;Drucker;3;supporter7;20.08.2012 08:06;Kopierer / Scanner Zi 303
+380;benutzer66;Personalcomputer;1;supporter12;21.08.2012 17:29;Zi 114
+381;benutzer120;PC-Programm;1;supporter2;27.08.2012 11:02;Klassenlisten
+382;benutzer226;Lokales Netzwerk;2;supporter2;27.08.2012 15:35;Drucker Zimmer 307 GIBSGrenchen
+383;benutzer34;PC-Programm;1;supporter2;28.08.2012 08:53;Audacity
+385;benutzer215;Lokales Netzwerk;3;supporter12;03.09.2012 12:59;Kein Internetzugang im SH2 im 2. Stock und PC-Raum
+386;supporter2;Helpdesktool;3;supporter5;03.09.2012 14:39;Kein Zugriff auf Helpdesktool im EBZ
+387;benutzer226;Personalcomputer;3;supporter2;03.09.2012 15:37;Lehrer-PC Z 307 GIBSG
+388;benutzer215;PC-Programm;1;supporter12;04.09.2012 11:28;PC wechsel im Vorbereitungszimmer 512
+389;benutzer128;Notenool;3;supporter5;04.09.2012 15:23;Überspielung Daten
+390;supporter10;Helpdesktool;2;supporter5;04.09.2012 16:27;"Jens nicht als \Löser\"" eingerichtet"""
+391;benutzer117;Absenztool;2;supporter5;04.09.2012 16:37;Probleme mit Absenzeintrage
+392;supporter12;PC-Programm;1;supporter12;05.09.2012 06:38;Update ZImmer 006
+393;supporter12;PC-Programm;3;supporter12;05.09.2012 06:39;Stundensammler
+394;benutzer117;Lokales Netzwerk;1;supporter2;05.09.2012 11:38;Verteilerliste KBS anpassen
+395;supporter10;Mail;2;supporter10;06.09.2012 07:34;SPAM - Filer Migration
+396;benutzer110;PC-Programm;2;supporter2;06.09.2012 10:37;Interwrite Workspace Zi 203
+397;benutzer131;Personalcomputer;2;supporter10;10.09.2012 16:16;Absturz/Kurzschluss?
+398;benutzer67;PC-Programm;2;supporter12;11.09.2012 11:32;"Probleme \Stundenplaner-PC\"""""
+399;supporter12;Lokales Netzwerk;2;supporter10;12.09.2012 11:21;PC Zimmer 307
+400;supporter16;Internet;2;supporter10;14.09.2012 09:41;VPN mit MAC
+401;benutzer200;PC-Programm;2;supporter12;17.09.2012 16:59;Beamerbild flimmert stark
+402;benutzer175;Drucker;2;supporter12;18.09.2012 11:34;mouse - problem
+403;benutzer10;PC-Programm;2;supporter12;19.09.2012 11:11;SW Installation
+404;benutzer117;Personenverwaltung;2;supporter5;20.09.2012 14:19;für GIBS Grenchen, Irène Thurnheer
+405;supporter12;Drucker;1;supporter12;20.09.2012 14:57;Drucker im Vorbereitungszimmer Küche
+406;supporter12;Personalcomputer;1;supporter12;21.09.2012 16:39;Lautsprecher ZI 006
+407;benutzer186;PC-Programm;3;supporter2;24.09.2012 08:23;PC50201
+408;benutzer186;PC-Programm;2;supporter2;24.09.2012 08:49;Lehrer-PC Zi 502
+409;benutzer154;Beamer;2;supporter12;24.09.2012 13:03;Beamer Zi 011
+410;benutzer186;Drucker;2;supporter2;24.09.2012 15:20;Zi 502 - Druckerprobleme
+411;benutzer73;Personalcomputer;3;supporter2;25.09.2012 08:13;PC aufstarten
+412;supporter10;Helpdesktool;2;supporter5;25.09.2012 08:56;Anhänge ohne Endung
+413;benutzer206;Drucker;3;supporter2;25.09.2012 15:41;Drucker 318
+414;benutzer210;PC-Programm;2;supporter2;26.09.2012 13:51;explorer
+416;benutzer131;Personenverwaltung;2;supporter5;27.09.2012 07:47;Account für Lernenden
+417;benutzer154;Personalcomputer;2;supporter12;28.09.2012 08:24;Arbeitsspeicher
+418;benutzer180;Personalcomputer;2;supporter12;28.09.2012 15:02;PC im Pavillon P13
+419;supporter10;Lokales Netzwerk;2;supporter5;10.10.2012 11:39;v-Server mehr RAM zuweisen
+420;benutzer169;Notenool;1;supporter5;12.10.2012 12:20;Noten durch mehere Lehrer eintragen
+421;benutzer15;Mail;3;supporter10;15.10.2012 08:12;Mail im Schulnetz funktioniert nicht
+422;supporter12;Drucker;1;supporter12;16.10.2012 08:35;Scaner 
+423;supporter12;Personalcomputer;2;supporter12;17.10.2012 09:32;PCs ab- und aufbauen
+424;benutzer169;Drucker;2;supporter10;22.10.2012 09:33;Toner für P303_P1 ersetzen
+425;benutzer73;Personalcomputer;3;supporter2;22.10.2012 09:48;Start nicht möglich
+426;benutzer148;Lokales Netzwerk;3;supporter5;22.10.2012 10:23;Schülerkennwort ändern
+427;benutzer44;Drucker;1;supporter10;22.10.2012 10:54;Drucker im Zimmer 009
+428;benutzer73;Personalcomputer;1;supporter2;22.10.2012 16:23;PC 09 Zimmer 309 - Kein Aufstarten möglich
+429;benutzer50;PC-Programm;3;supporter12;24.10.2012 07:14;Kein Ton bei DVD
+430;supporter6;Lokales Netzwerk;1;supporter10;24.10.2012 08:04;GIBS Grenchen Drucker Zi 308 / Sekr
+431;benutzer139;Drucker;2;supporter12;25.10.2012 16:07;008 Drucker
+432;benutzer73;Personalcomputer;3;supporter2;26.10.2012 08:15;PC kann nicht angemeldet werden
+433;supporter5;Lokales Netzwerk;1;supporter10;26.10.2012 09:14;Access Point Zimmer 102
+434;benutzer111;Personalcomputer;3;supporter2;26.10.2012 15:44;PC20422
+435;benutzer180;Personalcomputer;2;supporter10;26.10.2012 17:30;PC  GISO_P13_02
+437;benutzer153;Personalcomputer;1;supporter10;29.10.2012 14:44;Zimmer 401 Rosengarten
+438;benutzer83;Windows;3;supporter12;31.10.2012 13:12;Drucker  GIS2-531P1
+439;supporter6;PC-Programm;1;supporter10;31.10.2012 16:02;Schulnetz Gre
+440;benutzer40;PC-Programm;2;supporter10;02.11.2012 11:09;Zimmer 203
+441;benutzer108;Mail;2;supporter10;02.11.2012 12:29;Merkus Minder
+443;benutzer110;PC-Programm;3;supporter10;05.11.2012 07:30;Fehlermeldung PC Zi 203
+444;benutzer128;Notenool;3;supporter5;05.11.2012 08:30;Klasse
+445;supporter12;Drucker;1;supporter12;05.11.2012 09:57;Drucker P14Ps
+446;benutzer110;PC-Programm;3;supporter10;05.11.2012 10:09;Fehlermeldung PC Zi 203 / KBS Solothurn
+447;benutzer135;PC-Programm;2;supporter10;06.11.2012 09:54;Fehlende Software für Beamer und Visualizer
+448;benutzer153;Personalcomputer;1;supporter10;06.11.2012 11:42;PC startet nicht
+449;supporter12;Windows;1;supporter12;06.11.2012 16:48;3 PCs im Informatikraum 541
+450;benutzer180;Drucker;2;supporter12;07.11.2012 15:25;hp-Drucker
+451;benutzer73;Personalcomputer;3;supporter10;07.11.2012 16:22;Aufstarten PCs
+452;benutzer154;Drucker;3;supporter7;08.11.2012 09:45;Zimmer 010
+453;benutzer73;PC-Programm;1;supporter10;09.11.2012 09:54;Vision mit falschen PC-Stationen
+454;benutzer111;PC-Programm;3;supporter10;09.11.2012 11:48;Defekter PC im Zimmer 204
+455;benutzer128;Notenool;2;supporter5;12.11.2012 07:04;Anfrage von Gabi van der Floe
+456;benutzer110;PC-Programm;2;supporter10;12.11.2012 09:15;Stift zum Interwriteworkspace-Programm
+457;benutzer186;PC-Programm;2;supporter10;12.11.2012 10:53;Zi 502 - PC Nr. 50220 und 50203
+458;benutzer186;Personalcomputer;1;supporter10;12.11.2012 17:13;PC Zi 502
+459;supporter12;PC-Programm;1;supporter12;12.11.2012 17:32;Drucker Finlayson
+460;supporter12;PC-Programm;2;supporter12;12.11.2012 17:33;Anpassung Solidedge Standart Parts
+461;benutzer84;PC-Programm;1;supporter12;13.11.2012 08:01;Image Zi 307
+462;supporter10;Helpdesktool;2;supporter5;13.11.2012 14:16;User Martin Jenni
+463;benutzer128;Personalcomputer;3;supporter10;13.11.2012 16:17;Bildschirm Zimmer 204
+464;supporter6;PC-Programm;2;supporter10;13.11.2012 16:22;Profil-Server / alte PC für Zeitzentrum
+465;supporter6;PC-Programm;1;supporter10;13.11.2012 16:36;tief
+466;supporter12;Anderes Tool;1;supporter12;14.11.2012 07:12;VPN einrichten
+467;benutzer128;Mail;3;supporter10;14.11.2012 09:36;Posteingang
+468;supporter12;Drucker;2;supporter12;14.11.2012 13:19;Druckerfunktion nach Zeitumstellung
+469;benutzer169;Drucker;2;supporter10;14.11.2012 15:38;Standart Drucker wird immer wieder gewechselt
+470;benutzer83;PC-Programm;3;supporter10;14.11.2012 17:22;Drucker GIS2_531_P1
+471;benutzer154;PC-Programm;3;supporter12;15.11.2012 11:02;Zi 011
+472;supporter14;PC-Programm;3;supporter12;15.11.2012 13:43;Drucker Zi006
+473;benutzer111;Personalcomputer;3;supporter10;15.11.2012 16:56;LehrerPC im Zimmer 204
+474;benutzer111;Personalcomputer;3;supporter10;16.11.2012 09:44;Lehrer-PC im Zimmer 204
+475;supporter15;Drucker;1;supporter10;16.11.2012 11:03;Drucker druckt Streifen
+476;benutzer131;Anderes Tool;2;supporter5;19.11.2012 08:23;Kalendereintrag von Pensionierten
+477;supporter10;Helpdesktool;2;supporter5;19.11.2012 09:05;Call 476 - Kategorie
+478;benutzer139;Beamer;2;supporter10;19.11.2012 09:09;Zimmer 107 Hellraumprojektor
+479;benutzer131;Drucker;2;supporter12;19.11.2012 09:26;permanenter Stau
+480;benutzer131;Personalcomputer;3;supporter12;20.11.2012 09:53;Netcim - Geschichte
+481;benutzer172;PC-Programm;2;supporter12;20.11.2012 15:19;Komisches Fenster
+482;benutzer51;PC-Programm;2;supporter10;21.11.2012 08:19;Meldung auf Desktop
+483;benutzer172;Windows;1;supporter12;21.11.2012 08:36;Zimmer 012 PC 24
+484;benutzer111;Personalcomputer;3;supporter10;22.11.2012 17:01;PC und Drucker im Zimmer 204
+485;supporter10;Helpdesktool;2;supporter5;23.11.2012 13:27;Wünsche
+486;benutzer117;Drucker;2;supporter10;27.11.2012 09:50;Drucker KBGR_315_P1
+487;benutzer111;Beamer;2;supporter10;27.11.2012 19:16;Beamer in Zimmer 401 funktioniert nicht
+488;supporter6;PC-Programm;2;supporter10;29.11.2012 16:27;ZeitZentrum - Drucker Lehrerzi und PDF sw
+489;benutzer226;Personalcomputer;2;supporter10;04.12.2012 08:19;PC Zimmer 204 BBZGR
+491;benutzer151;Drucker;2;supporter10;04.12.2012 09:03;Drucken am Drucker Zi 303
+492;benutzer186;PC-Programm;2;supporter2;04.12.2012 09:56;PC Zi 502, PC 50202
+493;benutzer111;Beamer;3;supporter2;04.12.2012 16:50;Zimmer 401
+494;benutzer117;PC-Programm;1;supporter2;05.12.2012 10:39;Vision Grenchen Zimmer 311
+495;benutzer116;Mail;3;supporter5;05.12.2012 10:51;E-Mail öffnen
+496;supporter2;Drucker;2;supporter10;05.12.2012 11:30;Farblaser HP CP3525 Sekretariat
+497;benutzer153;Drucker;1;supporter2;05.12.2012 12:37;Druckproblem mit IE
+498;benutzer171;Anderes Tool;2;supporter10;05.12.2012 14:10;BSCW
+499;benutzer128;Drucker;2;supporter10;06.12.2012 08:41;Drucker 205
+500;benutzer108;Drucker;2;supporter10;06.12.2012 11:26;Probleme Drucker GISO_P14_P1
+501;benutzer111;Personalcomputer;2;supporter10;06.12.2012 13:16;Lehrer-PC Zimmer 311
+502;benutzer116;Drucker;1;supporter10;07.12.2012 13:12;Verbindung: Personalcomputer - Drucker
+503;benutzer148;PC-Programm;1;supporter12;10.12.2012 08:37;PC GISO_P19_04
+504;benutzer73;PC-Programm;2;supporter2;10.12.2012 11:38;Vision
+505;benutzer186;PC-Programm;2;supporter2;10.12.2012 11:48;Vision Zi 502
+506;benutzer6;Drucker;2;supporter10;11.12.2012 14:48;Drucker KBS 208 P1
+507;benutzer106;Personalcomputer;2;supporter12;11.12.2012 16:21;PC GIS2_530_01
+508;benutzer164;Drucker;2;supporter10;12.12.2012 10:17;Drucker KBS 208 P1
+509;supporter12;Lokales Netzwerk;3;supporter12;17.12.2012 08:52;3. Stock kein Netz
+510;benutzer108;Drucker;2;supporter10;17.12.2012 15:19;Drucker GISO_P14_P1
+511;supporter10;Helpdesktool;2;supporter5;18.12.2012 14:54;ZZ  PSW-Reset-Tool
+512;supporter6;Helpdesktool;2;supporter5;18.12.2012 15:36;H. Imboden (ZeitZentrum) 
+513;supporter2;PC-Programm;1;supporter2;20.12.2012 08:33;GIGR_307_13
+514;supporter2;PC-Programm;1;supporter2;20.12.2012 08:33;GIGR_307_21
+515;benutzer169;Lokales Netzwerk;2;supporter10;04.01.2013 14:41;Zugriff auf Video Laufwerk
+516;benutzer169;Lokales Netzwerk;1;supporter2;04.01.2013 14:46;Ablage von Software
+517;benutzer169;Beamer;1;supporter10;04.01.2013 15:00;Bildschirm und Beamer Format
+518;benutzer169;Anderes Tool;2;supporter5;04.01.2013 16:18;Listentool: Adressen der Lehrmeister fehlt
+520;benutzer169;Anderes Tool;1;supporter5;04.01.2013 16:22;Kein Zugriff auf Tool Leistungsbericht
+521;benutzer73;PC-Programm;2;supporter2;05.01.2013 12:12;Speicherplatz und Vision
+522;benutzer15;Drucker;2;supporter2;07.01.2013 07:56;Drucker  hinzufügen
+523;supporter16;Personalcomputer;2;supporter2;07.01.2013 10:34;Fehlerhafte PCs in Zimmer 401 Rosengarten
+524;benutzer169;PC-Programm;1;supporter10;07.01.2013 11:42;Microsofot Home Use Programm (HUP)
+525;benutzer169;PC-Programm;1;supporter10;07.01.2013 11:44;Flate Rate für Mobiltelefone 
+526;supporter2;Lokales Netzwerk;1;supporter2;08.01.2013 09:47;Einrichten eines neuen Accounts im EBZ
+527;supporter12;Personalcomputer;2;supporter10;09.01.2013 07:51;Austausch PC SH2_512
+528;supporter12;Personalcomputer;2;supporter10;09.01.2013 07:51;Austausch PC SH2_530
+529;supporter16;Lokales Netzwerk;1;supporter2;09.01.2013 09:06;Anmeldung an PC in Zimmer 305 nicht möglich
+530;benutzer95;Drucker;2;supporter2;10.01.2013 08:11;Drucker P19 P1
+531;benutzer95;PC-Programm;2;supporter2;10.01.2013 08:15;Drucker P19 P2
+532;benutzer172;Drucker;1;supporter10;10.01.2013 11:27;Kartuschenwechsel Zi 012
+533;supporter6;Personalcomputer;3;supporter2;10.01.2013 13:14;Ersatz PC Vorbereitungszimmer GIBS GRe
+534;supporter12;Mail;2;supporter5;10.01.2013 13:34;Call User
+535;benutzer27;Internet;3;supporter2;10.01.2013 18:05;Fehlermeldung mit Blockade des Systems
+536;benutzer226;Anderes Tool;3;supporter2;11.01.2013 07:56;Passwörter für Lernende neu setzen
+537;benutzer60;Drucker;3;supporter2;11.01.2013 11:08;"Drucker geht nicht - \Zugriff verweigert\"""""
+538;supporter3;PC-Programm;2;supporter2;11.01.2013 13:48;Auswertung First Prüfung (adobe reader)
+539;benutzer148;Personalcomputer;3;supporter12;14.01.2013 08:58;P19_04
+540;benutzer60;Personalcomputer;2;supporter12;14.01.2013 10:45;diverse DVD-Laufwerke lassen sich nicht öffnen
+541;benutzer154;PC-Programm;3;supporter10;14.01.2013 10:59;Zimmer 011
+542;benutzer186;PC-Programm;2;supporter2;15.01.2013 07:50;PC-Zi 502
+543;benutzer128;PC-Programm;3;supporter2;16.01.2013 08:22;Freigabe Zimmerpläne
+544;benutzer108;Windows;2;supporter2;16.01.2013 09:04;Fehlende persönliche Laufwerke 
+545;benutzer180;Drucker;2;supporter12;17.01.2013 08:37;PC nicht mit Drucker verbunden
+546;benutzer169;Windows;2;supporter10;17.01.2013 08:59;Grösse des User Profiles 
+547;benutzer164;Drucker;3;supporter2;17.01.2013 15:01;Drucker 
+548;benutzer186;PC-Programm;3;supporter2;21.01.2013 09:15;Vision PC-Zi 502
+549;supporter6;Drucker;2;supporter10;21.01.2013 10:48;GIBS Gre Zi 307
+550;benutzer131;PC-Programm;1;supporter2;21.01.2013 12:01;"\Zuletzt verwendet\"" in der Taskliste anzeigen"""
+551;supporter14;Windows;3;supporter2;21.01.2013 13:50;Name Drucker Zi104
+552;benutzer73;PC-Programm;3;supporter2;21.01.2013 15:02;PC startet nicht
+553;supporter14;Notebook;2;supporter7;23.01.2013 09:43;Notebooks für MAP-Korrektur
+554;supporter14;Drucker;1;supporter10;23.01.2013 09:53;Defaulteinstellungen Drucker Zi006
+555;benutzer128;PC-Programm;1;supporter2;28.01.2013 07:12;Fehlermeldung
+556;supporter2;Personalcomputer;1;supporter2;29.01.2013 09:40;Neuer PC für Hauswarte
+557;supporter2;Lokales Netzwerk;1;supporter2;29.01.2013 09:48;Netzwerklaufwer Haustechnik einrichten
+558;benutzer128;PC-Programm;3;supporter2;30.01.2013 07:19;Outlool und RuntimeError
+559;benutzer7;Lokales Netzwerk;2;supporter12;30.01.2013 11:54;Laufwerk P / kein Zugriff
+560;benutzer200;PC-Programm;1;supporter10;30.01.2013 16:47;Kein Zugang zum Surfer/Internet
+561;benutzer128;PC-Programm;3;supporter10;31.01.2013 07:38;>>Externe E-Mails<<
+562;benutzer84;Internet;1;supporter5;01.02.2013 07:51;Fehlerhafte Sicherheitszertifikate
+563;benutzer73;PC-Programm;3;supporter2;01.02.2013 08:03;"Vision; WLAN KBS; PC-Zi 204"
+564;benutzer67;Personalcomputer;3;supporter2;01.02.2013 08:39;Persönliches Laufwerk P beim Starten des PC
+565;supporter3;PC-Programm;3;supporter2;07.02.2013 15:41;Tastaturschreibekurs im KV
+566;supporter12;Personalcomputer;2;supporter12;15.02.2013 10:37;PCs im 012 ersetzen
+567;supporter12;Personalcomputer;1;supporter12;15.02.2013 10:38;PC 210 ersetzen
+568;supporter12;Windows;1;supporter12;15.02.2013 10:40;Diverse Supportjobs in den Sportferein
+569;supporter6;PC-Programm;2;supporter2;18.02.2013 09:22;ZZ Gre anmeldung Lehrer
+570;benutzer226;PC-Programm;3;supporter10;18.02.2013 11:59;Scannen im Vorbereitungszimmer 107 GIBSGR
+571;benutzer226;PC-Programm;3;supporter10;18.02.2013 15:41;Drucken von PC auf Drucker Z 107 ZZ
+572;benutzer200;Internet;3;supporter10;19.02.2013 18:55;Kein Zugang zum Surfer/Internet
+573;benutzer169;Drucker;2;supporter10;21.02.2013 09:06;Falscher Druckertreiber für P303_P1
+574;benutzer73;Personalcomputer;3;supporter2;22.02.2013 09:18;PCs können nicht gestartet werden.
+575;benutzer111;PC-Programm;2;supporter10;22.02.2013 16:17;Datien gelöscht
+576;supporter14;Windows;2;supporter10;25.02.2013 08:00;Anmeldung an der Domäne
+577;benutzer60;Drucker;1;supporter7;25.02.2013 09:54;Drucker nicht vorinstalliert
+578;benutzer73;Personalcomputer;3;supporter2;25.02.2013 13:16;PC kann nicht starten
+579;benutzer120;PC-Programm;3;supporter2;25.02.2013 15:11;CAD
+580;benutzer83;Personalcomputer;1;supporter12;27.02.2013 15:47;GIS2 PC531.07
+581;supporter5;Lokales Netzwerk;2;supporter10;28.02.2013 11:00;Kein Zugriff auf edu.bbzsogr.ch von WLAN kbs
+583;benutzer51;Personalcomputer;3;supporter2;01.03.2013 09:54;PC Zimmer 307 in Grenchen
+584;supporter10;Internet;1;supporter10;01.03.2013 15:34;WLAN Grenchen
+585;benutzer132;PC-Programm;2;supporter2;04.03.2013 08:04;Steuererklärungsformulare
+586;benutzer169;PC-Programm;1;supporter10;04.03.2013 09:58;PDF-Creator
+587;benutzer149;Personalcomputer;2;supporter2;04.03.2013 14:20;Zimmer 311, Grenchen, PC 07
+588;benutzer61;Drucker;1;supporter10;06.03.2013 09:10;GISO_207_P1 - tut nicht
+589;benutzer20;Drucker;2;supporter10;06.03.2013 14:20;Zimmer 010, PC 10
+590;benutzer51;Personalcomputer;1;supporter2;07.03.2013 09:51;PC Raum 307
+591;benutzer51;Personalcomputer;3;supporter2;07.03.2013 13:19;PC Zimmer 307 in Grenchen
+592;benutzer51;Personalcomputer;3;supporter2;07.03.2013 13:49;PC_Zimmer 307 Grenchen Fehlermeldung
+593;benutzer73;PC-Programm;2;supporter10;08.03.2013 09:46;Drucker KBS Zi 309
+594;benutzer128;Personalcomputer;1;supporter2;08.03.2013 14:29;Zimmer 401
+595;benutzer51;Personalcomputer;1;supporter10;08.03.2013 14:57;PC Raum 307 Grenchen
+596;benutzer123;PC-Programm;2;supporter10;11.03.2013 08:37;Drucker PC Raum Pavillon
+597;benutzer123;PC-Programm;2;supporter10;11.03.2013 08:39;Drucker PC Raum Pavillon
+598;benutzer155;Lokales Netzwerk;2;supporter10;12.03.2013 08:48;VPN - Probleme
+599;benutzer152;PC-Programm;2;supporter10;12.03.2013 11:04;AutoCad, RK-Menue
+600;benutzer152;PC-Programm;3;supporter10;12.03.2013 15:53;RK-Menü
+601;benutzer154;Internet;2;supporter10;13.03.2013 08:01;Links in Dokument gehen nicht
+602;supporter10;Helpdesktool;2;supporter5;13.03.2013 09:44;Session TimeOut
+603;benutzer117;Mail;1;supporter10;13.03.2013 15:28;Mail Accounts Löschen
+604;benutzer51;Personalcomputer;2;supporter10;14.03.2013 08:56;PC Raum 307 in Grenchen (Maus)
+605;benutzer51;Personalcomputer;2;supporter10;14.03.2013 09:11;PC Raum 307 Grenchen
+606;benutzer111;Personalcomputer;2;supporter10;14.03.2013 12:15;Kein Anmeldeserver vorhanden
+607;benutzer111;Personalcomputer;3;supporter2;14.03.2013 16:59;Lehrer-PC im Zimmer 204
+608;benutzer51;PC-Programm;3;supporter10;15.03.2013 10:07;Bildschirmauflösung PC Raum 307 Grenchen
+609;benutzer186;PC-Programm;2;supporter2;18.03.2013 08:32;PC Zi 502 - PCs 50214/50215
+610;benutzer169;Personenverwaltung;2;supporter5;18.03.2013 11:26;Zugriff für Schüler mit Account von Solothurn auf BBZ Grenchen
+611;benutzer186;PC-Programm;3;supporter10;19.03.2013 08:20;PC Zi 502
+613;benutzer151;PC-Programm;3;supporter12;19.03.2013 14:37;Internet-Filme
+614;benutzer97;Lokales Netzwerk;1;supporter2;20.03.2013 11:06;Zugriff auf Outlook Web App
+615;supporter2;PC-Programm;1;supporter10;20.03.2013 11:56;Test Tschumi
+616;benutzer73;PC-Programm;3;supporter2;20.03.2013 14:11;Office: Konflikte mit alten Dateiendungen
+617;benutzer131;Mail;3;supporter12;21.03.2013 15:53;Volles Postfach
+618;benutzer202;Mail;1;supporter10;22.03.2013 09:54;OWA verbinden mit Iphone
+619;benutzer57;Drucker;2;supporter10;26.03.2013 09:26;Drucken ZZ Z107
+620;benutzer135;PC-Programm;3;supporter2;26.03.2013 10:43;Workspace Zimmer 203
+621;benutzer95;Drucker;2;supporter10;26.03.2013 10:48;Drucker P19 P1
+622;benutzer132;Personalcomputer;3;supporter10;28.03.2013 17:00;Profilspeicherplatz
+623;benutzer169;PC-Programm;2;supporter2;03.04.2013 07:40;Call 516
+624;benutzer172;Windows;2;supporter12;03.04.2013 09:29;Hilfeprogramm funktioniert nicht
+625;benutzer172;Personalcomputer;2;supporter12;03.04.2013 11:08;012-13
+626;benutzer172;Personalcomputer;2;supporter12;03.04.2013 11:21;012-02
+627;benutzer83;Lokales Netzwerk;2;supporter10;03.04.2013 13:12;Switch SH2 - 2. Stock
+628;benutzer128;Mail;3;supporter10;04.04.2013 13:11;Externe Mails
+629;benutzer60;Windows;1;supporter10;05.04.2013 11:07;Windows 7-Lizenz
+630;benutzer111;PC-Programm;1;supporter2;05.04.2013 15:42;Zimmer 204
+631;benutzer73;Windows;3;supporter2;19.04.2013 09:12;Fehler beim Öffnen von alten Office-Dateien muster.doc
+632;supporter15;Windows;1;supporter10;22.04.2013 08:08;Test
+633;benutzer186;PC-Programm;2;supporter2;22.04.2013 08:33;PC-Zi 502, Station 50214
+634;benutzer200;PC-Programm;3;supporter5;25.04.2013 08:07;BSCW 
+635;benutzer139;Lokales Netzwerk;3;supporter2;25.04.2013 10:42;Zimmer008 keine Netzwerk
+636;supporter15;PC-Programm;3;supporter2;26.04.2013 08:21;Schul-PC von Rolf Schütz
+637;benutzer131;Mail;3;supporter2;26.04.2013 09:00;Ich will keine Mails mehr
+638;benutzer149;Personalcomputer;3;supporter2;29.04.2013 08:37;PC 31107
+639;benutzer110;PC-Programm;3;supporter2;29.04.2013 10:33;Fehlermeldung Profilspeicherplatz
+640;supporter14;Beamer;3;supporter12;30.04.2013 17:14;kapputt
+641;supporter14;Lokales Netzwerk;2;supporter10;01.05.2013 10:26;Anmeldezeit an AD
+642;benutzer108;Mail;2;supporter10;01.05.2013 11:17;Multimedia-Files in Mailanhängen
+643;benutzer97;Mail;2;supporter10;02.05.2013 10:38;Ansicht Kalender 008 bei U. Bessire nicht möglich
+644;benutzer172;Lokales Netzwerk;2;supporter10;02.05.2013 10:54;WLAN
+645;supporter14;Personalcomputer;2;supporter2;02.05.2013 11:14;Katz und Maus
+647;supporter2;PC-Programm;1;supporter2;03.05.2013 07:45;test
+648;benutzer60;Lokales Netzwerk;2;supporter10;07.05.2013 08:07;lukas.nyffenegger kann sich nicht anmelden
+649;benutzer40;Notenool;2;supporter5;07.05.2013 13:14;Intranet/Noten
+650;benutzer128;Personalcomputer;2;supporter2;10.05.2013 14:35;PC-Zimmer 401
+651;benutzer169;Lokales Netzwerk;2;supporter10;11.05.2013 09:15;Zugriff auf Transfer Verzeichnis
+652;benutzer169;Helpdesktool;1;supporter10;11.05.2013 09:24;Benutzereinstellungen  Helpsystem
+654;supporter12;Personalcomputer;2;supporter12;13.05.2013 17:08;Austausch PC im Zimmer 008
+655;supporter2;Lokales Netzwerk;1;supporter2;15.05.2013 10:40;Accounts zurücksetzen
+657;benutzer226;PC-Programm;3;supporter10;16.05.2013 08:35;Anmelden ZeitZentrum-Schüler an BBZGR
+658;benutzer190;Personenverwaltung;3;supporter10;16.05.2013 13:26;Account Ernst Hürlimann
+659;supporter2;Personalcomputer;1;supporter2;17.05.2013 13:56;DVD defekt
+660;benutzer139;Beamer;2;supporter2;21.05.2013 09:55;Beamer
+661;benutzer20;PC-Programm;2;supporter12;21.05.2013 15:50;Laptop
+662;benutzer190;Personenverwaltung;2;supporter2;27.05.2013 08:59;Account Daniela Grossenbacher
+663;supporter12;Personalcomputer;1;supporter12;29.05.2013 09:52;Dokkamera und Verkabelung 1Q 2013
+664;benutzer215;Anderes Tool;1;supporter5;29.05.2013 11:57;Keine Daten auf BSCW mit meinem Login
+665;benutzer152;PC-Programm;3;supporter10;04.06.2013 10:54;Auto-CAD Zimmer 309 Grenchen
+666;benutzer83;Beamer;2;supporter12;04.06.2013 13:57;VGA Weiche funktioniert nicht richtig
+667;supporter12;Drucker;2;supporter10;04.06.2013 14:10;Drucker Arbeitszimmer
+668;supporter12;Beamer;1;supporter12;05.06.2013 07:32;Beamer im 531
+669;benutzer60;Personalcomputer;3;supporter12;05.06.2013 14:15;Lehrer-PC in 012 geht nicht
+670;benutzer215;PC-Programm;2;supporter12;06.06.2013 08:25;Beamer Sh2, Zimmer 511
+671;supporter14;Drucker;3;supporter7;06.06.2013 08:27;Drucker Zi104 / Inflabor
+672;benutzer51;PC-Programm;2;supporter10;06.06.2013 11:28;Internetexplorer
+673;benutzer67;Notebook;2;supporter2;10.06.2013 07:52;Austausch Notebook im Zi 109.
+674;benutzer108;Personenverwaltung;3;supporter2;17.06.2013 07:14;GV_GISO_Bereich-Foerder
+675;supporter15;Mail;3;supporter10;17.06.2013 11:33;Mailadresse ZeitZentrum
+676;benutzer70;Personalcomputer;3;supporter12;18.06.2013 09:50;S. Siegenthaler, Zimmer 003
+677;benutzer207;Personalcomputer;1;supporter12;19.06.2013 09:29;Test für Michel
+678;benutzer116;PC-Programm;1;supporter10;20.06.2013 10:51;Werckstattgebäude Zi 014
+679;benutzer51;PC-Programm;3;supporter10;20.06.2013 11:57;VPN
+680;benutzer60;Anderes Tool;2;supporter5;21.06.2013 09:12;Passwort-Tool
+681;supporter2;Helpdesktool;2;supporter5;21.06.2013 11:08;Helpdesk im EBZ funktioniert nicht mehr
+682;supporter10;Helpdesktool;2;supporter5;21.06.2013 15:20;IE - Konfiguration Kompatibelität
+683;benutzer60;Personalcomputer;2;supporter10;21.06.2013 16:50;GISO P03 23 bleibt hängen
+684;benutzer60;Personalcomputer;2;supporter10;21.06.2013 17:01;GISO P03 11 ebenfalls hängen
+685;supporter10;Drucker;1;supporter10;24.06.2013 08:48;Drucker Hauswarte GISO (M01_P01)
+686;benutzer102;PC-Programm;2;supporter2;25.06.2013 07:57;Profilspeicherplatz
+687;benutzer60;Personalcomputer;2;supporter10;25.06.2013 09:30;GISO P03 16 bootet nicht
+691;benutzer60;Notenool;2;supporter5;26.06.2013 14:41;Sortierung von Umlauten
+692;benutzer73;Drucker;2;supporter10;27.06.2013 12:25;Drucker-Probleme
+693;benutzer169;PC-Programm;2;supporter10;27.06.2013 15:44;Vorlagen vom Kanton
+694;benutzer169;Lokales Netzwerk;1;supporter10;27.06.2013 15:50;Zugriff auf Kantonsintranet
+695;benutzer154;PC-Programm;2;supporter12;01.07.2013 09:14;SolidEdge
+696;supporter12;PC-Programm;2;supporter12;01.07.2013 11:13;Visio
+697;supporter12;Drucker;1;supporter12;02.07.2013 07:24;Drucker 017
+698;benutzer83;Windows;1;supporter12;02.07.2013 10:19;PC hat sich gehängt
+699;supporter6;Anderes Tool;2;supporter5;02.07.2013 13:20;Schülerfeedback
+700;benutzer117;Mail;2;supporter10;04.07.2013 10:08;Mail-Adresse für Lehrer
+701;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:31;Account Hafner Alexandra, KBS SOGR
+702;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:32;Account Penfold Sam, EBZ SOGR
+703;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:32;Account Borer Guido, GIBS GR
+704;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:33;Account Gfrörer Madeleine, GIBS SO
+705;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:33;Account Ittig Simon, GIBS GR
+706;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:33;Account Jandl Patrick, GIBS GR
+707;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:34;Account Schluep Madeleine, GIBS SO
+708;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:34;Account Wagner Peter, KBS SOGR
+709;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:35;Account Eggimann Jonas, GIBS GR
+710;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:35;Account Graber Tanja, KBS SOGR
+711;benutzer190;Personenverwaltung;2;supporter10;07.07.2013 14:37;Account Meier Andreas, KBS SOGR
+712;benutzer128;Notenool;1;supporter5;12.07.2013 09:30;Frage
+713;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:12;Account Kristina Sikalo, EBZ Lernende
+714;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:13;Account Damian Albisser, GIBS SO Lernender
+715;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:14;Account Vanessa Kohler
+716;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:15;Account Matthias Rüetschi, GIBS GR Lernender
+717;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:16;Account Nancy Aegerter, EBZ
+718;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:17;Account Daniel Wegmüller
+719;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:20;Account Jonas Eggimann, GIBS GR
+720;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:22;Account Kurt Bieri, GIBS GR
+721;benutzer190;Personenverwaltung;2;supporter10;19.07.2013 09:22;Account Ulrich Bärtschi, GIBS GR
+722;benutzer190;Personenverwaltung;3;supporter10;19.07.2013 10:04;Account Stefanie Späti, EBZ
+723;benutzer128;Internet;2;supporter10;31.07.2013 08:01;WLAN BBZSOGR
+724;benutzer97;Anderes Tool;2;supporter5;02.08.2013 07:58;Neuer Lernender - Zugang zu den Tools sowie Eröffnung BBZ-Mail
+725;benutzer128;Personenverwaltung;2;supporter2;05.08.2013 10:39;Eröffnung Account
+726;supporter6;Notebook;1;supporter10;06.08.2013 08:19;Mc Affee
+728;benutzer128;Personenverwaltung;3;supporter10;07.08.2013 16:24;Eröffung Lehreraccount
+729;benutzer190;Personenverwaltung;2;supporter2;08.08.2013 11:22;Account Oliver Schneider, BBZ Grenchen
+730;benutzer190;Personenverwaltung;2;supporter2;08.08.2013 11:22;Account Jan Lang, BBZ SOGR
+731;benutzer60;Drucker;2;supporter10;08.08.2013 15:55;P19_P1 geht nicht (mehr) an
+732;benutzer128;Personalcomputer;2;supporter2;09.08.2013 10:11;Vision
+733;benutzer128;PC-Programm;3;supporter2;09.08.2013 13:48;Tastaturschreibprogramm
+735;benutzer128;Personenverwaltung;2;supporter10;12.08.2013 08:36;vanessa kohler
+736;benutzer128;Anderes Tool;2;supporter5;12.08.2013 09:19;Berechtigung EDU-KBS
+737;benutzer171;Lokales Netzwerk;3;supporter5;12.08.2013 09:27;VPN Zugang
+738;benutzer128;Drucker;2;supporter10;12.08.2013 09:34;Drucker Zi208 (Sekretariat)
+739;benutzer111;Personalcomputer;2;supporter10;12.08.2013 15:57;PCkbs20412
+740;supporter14;Windows;2;supporter10;12.08.2013 16:46;Profil
+742;benutzer108;PC-Programm;3;supporter7;14.08.2013 11:34;"WLAN-Zugriff Pavillon \GISO_Students\"""""
+743;benutzer51;PC-Programm;2;supporter2;14.08.2013 12:46;PCs in Zi 307 und 309
+744;benutzer117;PC-Programm;1;supporter10;14.08.2013 14:05;Outlook, Raumreservation Mails
+745;benutzer34;Notenool;1;supporter2;15.08.2013 08:25;Passwort ändern Tanja Graber
+746;benutzer186;PC-Programm;2;supporter2;16.08.2013 09:01;PC Zi 502 Anmeldeverfahren
+747;benutzer186;PC-Programm;2;supporter10;16.08.2013 10:28;PC Zi 502 - Druckerprobleme/PW-Aenderung
+748;benutzer171;PC-Programm;2;supporter2;18.08.2013 13:39;Office Version
+749;benutzer180;PC-Programm;2;supporter12;19.08.2013 07:55;PC Pavillon
+750;benutzer222;Drucker;2;supporter10;19.08.2013 08:24;Drucker sek 208
+751;benutzer128;Personalcomputer;3;supporter2;19.08.2013 08:55;Laufwerk Verwaltung
+752;benutzer149;Anderes Tool;3;supporter2;19.08.2013 09:46;Keinen Zugriff auf Schülerkennwort ändern
+753;benutzer128;PC-Programm;1;supporter2;19.08.2013 15:05;Tastaturschreibprogramm
+754;benutzer186;PC-Programm;2;supporter2;20.08.2013 08:58;PC Zi 502 - Passwort ändern
+756;benutzer154;Personalcomputer;3;supporter12;20.08.2013 13:32;Zimmer 010, Anmeldung
+757;benutzer131;Personalcomputer;2;supporter12;20.08.2013 16:08;Defekte Arbeitsstation
+758;benutzer200;PC-Programm;3;supporter12;20.08.2013 16:41;Logitech Boxen on/off - defekt
+759;benutzer186;PC-Programm;2;supporter2;21.08.2013 09:19;Passwort ändern - Zi 502 
+760;benutzer154;Personalcomputer;2;supporter12;21.08.2013 11:44;Zi 011, Anmeldung
+763;supporter10;Helpdesktool;1;supporter5;22.08.2013 09:01;Fehler beim Eröffnen
+764;supporter10;Helpdesktool;1;supporter5;22.08.2013 09:03;Rene Furter als BSCW Loeser eröffnen
+765;benutzer73;Windows;2;supporter2;22.08.2013 10:11;Lehrer-PC ohne Drucker
+766;benutzer40;Internet;2;supporter10;22.08.2013 12:40;VPN
+767;benutzer186;Anderes Tool;2;supporter2;22.08.2013 13:52;Zi 502 - Passwort ändern
+768;benutzer186;Anderes Tool;3;supporter10;23.08.2013 08:34;Zi 502 - PW zurücksetzen 
+769;benutzer191;Mail;2;supporter10;23.08.2013 11:00;Zugriff auf BBZ-Mail von Verwaltung
+770;supporter10;Anderes Tool;2;supporter5;23.08.2013 13:04;Passwort kann nicht geändert werden
+772;benutzer222;Lokales Netzwerk;2;supporter2;26.08.2013 07:24;Anmeldung für Unterricht
+776;benutzer226;Windows;1;supporter10;26.08.2013 13:03;Lehrerpc Zi307 GIGR
+777;supporter10;Helpdesktool;2;supporter5;26.08.2013 13:04;Kategorie änderbar machen
+778;benutzer25;Anderes Tool;2;supporter10;27.08.2013 08:40;Kein Zugriff auf Kalender der KBS-Zimmer
+779;supporter10;Helpdesktool;2;supporter5;27.08.2013 09:01;Falsche Mail-Adresse hinterlegt
+780;benutzer186;Drucker;2;supporter2;27.08.2013 09:10;Zi 502 - Drucker
+781;supporter10;Helpdesktool;2;supporter5;27.08.2013 09:30;Stefanie Späti als EBZ-User im HD Tool eröffnen
+782;supporter15;Mail;2;supporter10;27.08.2013 10:01;Mail-Verteiler für Loeschgruppe
+783;benutzer172;Personalcomputer;2;supporter12;27.08.2013 14:22;Lehrerstation 012
+784;benutzer131;Personalcomputer;1;supporter12;27.08.2013 15:52;PC hängt beim Aufstarten
+785;supporter12;PC-Programm;2;supporter12;27.08.2013 17:56;Anmeldung Pcs im 010
+786;benutzer51;Personenverwaltung;1;supporter5;28.08.2013 08:43;Melvin Müller
+787;benutzer162;Personalcomputer;2;supporter2;28.08.2013 08:51;Defekter CD-Player
+788;benutzer55;Beamer;2;supporter10;29.08.2013 07:44;Beamer kein Signal
+789;supporter5;PC-Programm;2;supporter10;29.08.2013 09:45;Zi006: Lizenzprobleme Office
+791;benutzer145;Beamer;1;supporter10;29.08.2013 12:51;Pixelfehler
+792;benutzer61;Drucker;1;supporter10;29.08.2013 13:26;Drucker Zi 207 tut nicht mehr
+793;supporter16;Personalcomputer;3;supporter2;29.08.2013 15:48;PC Stehpult für Piccolos Zi202
+794;benutzer139;PC-Programm;2;supporter10;30.08.2013 07:59;PC 008 - 22 Word ohne Lizenz
+795;benutzer207;Notenool;2;supporter5;02.09.2013 09:40;Klassenübersicht
+796;benutzer128;Personalcomputer;2;supporter2;02.09.2013 14:04;Zimmer 401
+797;benutzer60;Drucker;3;blj-support;03.09.2013 09:10;Drucker hat ständig Stau / P03
+800;benutzer128;Personalcomputer;2;supporter2;03.09.2013 12:54;Vision - Zimmer 401
+801;benutzer212;Personalcomputer;3;supporter12;03.09.2013 13:12;Schulung im Zimmer 302, bereitstellen
+802;benutzer73;Personalcomputer;3;supporter2;03.09.2013 13:50;PC startet nicht mehr
+803;supporter12;Personalcomputer;2;blj-support;04.09.2013 06:38;Test Informatikzimmer durch Lernende
+804;supporter12;Personalcomputer;2;supporter12;04.09.2013 06:43;Koordination Support für BLJ Lernende
+805;supporter12;Personalcomputer;2;supporter12;04.09.2013 06:46;Aufbau PCs in der Mediothek
+806;supporter12;Personalcomputer;2;blj-support;04.09.2013 06:46;PCs ins Inflabor zügeln
+808;benutzer117;Drucker;1;supporter10;04.09.2013 11:27;Drucker Zimmer 311 in Grenchen
+809;supporter5;PC-Programm;2;supporter2;04.09.2013 13:12;Image in Zimmer 006 unvollständig
+810;benutzer128;Anderes Tool;2;supporter5;04.09.2013 13:26;ECO-Import
+811;benutzer154;PC-Programm;3;supporter2;04.09.2013 15:04;Informatikzimmer 006 und 008
+812;benutzer172;Personalcomputer;2;supporter10;05.09.2013 09:24;Ordnung im Zimmer 012
+814;benutzer211;PC-Programm;1;supporter2;06.09.2013 08:37;Defekte PC's
+815;benutzer145;Drucker;2;supporter10;09.09.2013 08:11;HP Drucker 
+816;benutzer139;PC-Programm;1;supporter2;09.09.2013 08:22;Faststone Capture Kompatibilität 
+817;benutzer149;Drucker;1;supporter10;09.09.2013 11:35;Zimmer 311, Grenchen
+818;benutzer131;Anderes Tool;3;supporter12;09.09.2013 14:12;keine Projektion ab Dokumentenkamera
+820;benutzer180;Personalcomputer;3;supporter12;11.09.2013 09:59;Zugriff auf PC
+821;benutzer139;PC-Programm;2;supporter2;11.09.2013 15:04;C++ in Netbeans im Zimmer 008 installieren
+823;benutzer169;Notenool;2;supporter5;16.09.2013 11:19;TG für Klasse EI1c fehlt
+824;benutzer169;Notenool;2;supporter5;16.09.2013 11:27;Fehlerhafte Berechnung bei eingabe mit TAB Funktoin
+825;benutzer139;Windows;2;supporter2;16.09.2013 16:32;Zimmer 008, Inf-Image Drucker installieren
+826;benutzer139;Windows;2;supporter2;16.09.2013 16:44;Zimmer 008 Lehrer-PC
+827;supporter6;Personalcomputer;2;supporter10;17.09.2013 08:07;Profilspeicher
+828;benutzer117;Mail;1;supporter10;17.09.2013 11:03;Verteiler KBS Verwaltung
+829;benutzer172;Personalcomputer;3;supporter12;18.09.2013 08:39;Lehrer PC Zi 012
+830;supporter12;Personalcomputer;2;supporter12;19.09.2013 09:42;PC GISO_112_02
+831;benutzer186;PC-Programm;3;supporter5;19.09.2013 13:11;ZI 502 - DHF12B
+832;benutzer100;Drucker;1;supporter12;19.09.2013 14:36;Drucker Gruppenraum 1. Stock
+833;supporter12;Personalcomputer;2;supporter12;23.09.2013 15:38;Keine Anmeldeserver
+834;benutzer60;Drucker;3;supporter12;24.09.2013 10:47;Laserjet in P03_P1 zieht Blätter nicht ein
+835;benutzer172;Personalcomputer;2;supporter12;24.09.2013 13:27;GISO_012_24 Kein Drucker hinzfügbar
+836;benutzer218;Personalcomputer;2;supporter12;24.09.2013 15:55;keine Anmeldung möglich
+837;benutzer40;Personalcomputer;3;supporter2;24.09.2013 16:37;Zimmer 403
+838;supporter2;Personalcomputer;1;supporter2;25.09.2013 08:26;Büro Bosshard, ZZ Grenchen
+839;benutzer111;Personalcomputer;1;supporter2;26.09.2013 15:17;Tastatur Zimmer 204
+840;benutzer111;Personalcomputer;1;supporter2;30.09.2013 13:15;Zimmer 204 PC01
+842;benutzer190;Personenverwaltung;2;supporter10;15.10.2013 08:39;Account Diana Gugelmann, KBS SOGR
+843;benutzer20;Mail;3;supporter10;16.10.2013 09:35;E-Mail: Bereich Förderpädagogik anpasse
+844;benutzer108;Drucker;2;supporter10;17.10.2013 14:51;Drucker GISO_P19_P2
+845;benutzer149;Personalcomputer;2;supporter2;21.10.2013 10:44;Grenchen, Zi. 311, PC 31107
+846;benutzer128;Internet;1;supporter2;22.10.2013 13:40;Browser
+847;benutzer222;PC-Programm;3;supporter10;22.10.2013 14:32;Outlook Kalender
+848;supporter14;Drucker;3;supporter12;23.10.2013 09:32;Drucker Zi104 / Inflabor
+849;benutzer222;PC-Programm;3;supporter2;23.10.2013 11:15;Zimmer 303
+850;benutzer164;Mail;2;supporter10;23.10.2013 11:17;KBS Schulkalender
+851;benutzer24;Windows;2;supporter2;23.10.2013 15:30;Ständiger Runtime-Error
+852;benutzer175;Notebook;2;supporter12;26.10.2013 12:31;Switchbox für Notebook im zi 003
+853;supporter12;Personalcomputer;2;supporter12;26.10.2013 12:32;Div. Supportjobs nach den Ferien
+854;benutzer60;Personalcomputer;2;supporter10;28.10.2013 12:00;3 PC starten nicht mehr
+855;benutzer128;Drucker;3;supporter10;28.10.2013 15:22;Druckerproblem
+857;benutzer172;Drucker;3;supporter10;31.10.2013 09:01;Keine Drucker installiert im 012 !!
+858;benutzer131;Beamer;2;supporter12;02.11.2013 09:48;Dokkamera
+859;supporter12;Personalcomputer;2;supporter12;02.11.2013 09:50;Test Dokkamera über USB
+860;benutzer115;Personalcomputer;2;supporter12;04.11.2013 07:58;SmartBoard
+861;supporter14;Windows;3;supporter2;04.11.2013 08:36;temporäres Profil
+862;supporter14;Personalcomputer;3;supporter2;04.11.2013 08:58;Arbeitsstation Zi103
+863;benutzer128;PC-Programm;2;supporter2;04.11.2013 09:05;D. Gugelmann
+864;benutzer139;Personalcomputer;2;supporter10;04.11.2013 10:23;Zimmer 008 PC10 startet nicht
+865;supporter6;Anderes Tool;2;supporter5;04.11.2013 14:43;Login Schüler GIBS Gre
+866;benutzer226;Personalcomputer;2;supporter10;04.11.2013 15:21;2 Mängel mittlerer Tragweite im Z 309 GIBS 
+867;supporter6;PC-Programm;2;supporter10;04.11.2013 17:05;Zi 307 Grenchen
+868;benutzer31;Lokales Netzwerk;3;supporter2;05.11.2013 08:21;Clean&Copy - Einziehen funktioniert nicht
+869;benutzer139;Personalcomputer;2;supporter12;05.11.2013 11:08;107 LehrerPC kein Audio auf Lautsprecher
+870;benutzer20;Drucker;3;supporter10;05.11.2013 16:09;PC Raum Mediothek
+871;benutzer222;Beamer;2;supporter2;06.11.2013 14:44;Zimmer 307 Beamer
+872;benutzer120;PC-Programm;3;supporter2;06.11.2013 15:58;CAD
+873;benutzer120;PC-Programm;3;supporter2;06.11.2013 16:01;Netcim startet Maschinen nicht Zim 309 Grenchen
+874;benutzer55;Personalcomputer;3;supporter2;07.11.2013 08:11;USB-Stick
+877;supporter12;Personalcomputer;1;supporter12;07.11.2013 09:55;Printer mapping
+878;benutzer186;Drucker;2;supporter2;08.11.2013 08:48;PC Zi 502 - Druckprobleme
+879;supporter12;Beamer;1;supporter12;08.11.2013 13:45;Bildstörumgen Beamer GIBS ZI 211
+880;benutzer70;Notebook;2;supporter12;08.11.2013 13:48;Installation Notebook Sekretariat
+881;benutzer120;PC-Programm;3;supporter2;11.11.2013 10:04;Autocad2010
+882;benutzer120;PC-Programm;3;supporter2;11.11.2013 10:09;AutoCAD 2010
+883;benutzer120;PC-Programm;3;supporter2;11.11.2013 10:10;Zimmer 309
+884;benutzer172;Windows;1;supporter12;12.11.2013 13:28;Zimmer 012
+885;supporter12;Personalcomputer;2;supporter12;13.11.2013 10:21;3 PC im Arbeitszimmer laufen nicht mehr
+886;benutzer128;Personalcomputer;1;supporter2;13.11.2013 11:55;Switch - Arbeitsplatz GUGD/LEIM
+887;benutzer120;Windows;2;supporter2;13.11.2013 16:02;Bildschirmauflösung Zim 309
+888;supporter12;Beamer;1;supporter12;14.11.2013 07:05;Berufsbildneranlass 14.11.2013
+889;benutzer70;Notebook;1;supporter12;18.11.2013 08:27;Laptop GIBS
+890;supporter6;Personalcomputer;2;supporter10;18.11.2013 12:12;Grenchen Zi 307
+891;benutzer172;Windows;1;supporter2;19.11.2013 10:37;Werbung Lehrerrechner 306
+892;benutzer51;Personalcomputer;3;supporter10;19.11.2013 13:32;Internet stürzt ab
+893;benutzer128;Drucker;2;supporter2;19.11.2013 14:05;Drucker Zi 502
+894;benutzer111;Personalcomputer;1;supporter2;19.11.2013 16:26;Druckertreiber im Zimmer 204
+895;benutzer146;Windows;1;supporter4;20.11.2013 13:21;ZI 305 Updates
+896;benutzer53;Notenool;3;supporter5;21.11.2013 10:39;Keine Daten
+897;benutzer128;PC-Programm;1;supporter2;25.11.2013 08:18;Drucker
+898;benutzer172;Lokales Netzwerk;2;supporter12;28.11.2013 11:26;Scanner im 009
+899;benutzer53;Mail;2;supporter10;28.11.2013 11:37;Kalender Outlook für Klassenzimmer
+900;supporter16;PC-Programm;3;supporter2;28.11.2013 17:24;Neuer Visualizer in KBS-Zimmer 405
+901;benutzer139;Personalcomputer;3;supporter12;29.11.2013 08:57;Zimmer 008 kein ELE-Image
+902;supporter6;Lokales Netzwerk;1;supporter10;29.11.2013 10:38;W-LAN grenchen
+903;benutzer91;Drucker;2;supporter10;02.12.2013 09:43;CIS-PC (rechte) ohne Drucker
+904;benutzer97;Personalcomputer;2;supporter4;03.12.2013 10:35;Nervige Defekte im Arbeitszimmer
+905;supporter12;Lokales Netzwerk;2;blj-support;03.12.2013 10:54;Neue Netzwerkkabel in Grenchen (307, 309)
+906;benutzer111;Lokales Netzwerk;3;supporter2;06.12.2013 11:02;Klassenordner KVE1B
+907;benutzer164;PC-Programm;3;supporter2;06.12.2013 11:13;PC Herr Galli 
+908;benutzer19;Personalcomputer;3;supporter12;06.12.2013 15:32;PC Zi 306
+911;benutzer51;Drucker;1;supporter2;10.12.2013 10:51;Drucker GIGR_307_P1
+912;benutzer67;PC-Programm;1;supporter2;10.12.2013 14:41;UINTIS
+913;benutzer186;Lokales Netzwerk;2;supporter2;11.12.2013 08:15;KBS Zi 502, PC50214 und 15
+914;benutzer4;Personalcomputer;2;supporter10;12.12.2013 13:28;Kein Bild Zi. GISO 008
+915;supporter15;Drucker;1;supporter10;12.12.2013 14:27;mein Drucker wird in der neuen SW nicht verwaltet
+916;benutzer37;Lokales Netzwerk;3;supporter2;12.12.2013 17:03;PC von Nancy
+917;benutzer190;Personenverwaltung;2;supporter10;13.12.2013 14:34;Account Franziska Schatzmann
+918;benutzer190;Personenverwaltung;2;supporter10;13.12.2013 14:36;Account Stefan Ruchti
+919;benutzer128;Anderes Tool;2;supporter10;16.12.2013 08:42;Zimmerpläne
+920;benutzer172;Personalcomputer;2;supporter12;17.12.2013 13:45;Zimmer012-20
+921;benutzer128;Personalcomputer;2;supporter2;17.12.2013 15:12;Tastatur (Leertaste)
+922;benutzer117;Anderes Tool;2;supporter5;18.12.2013 08:57;Schülerlisten
+923;benutzer190;BSCW;2;supporter14;18.12.2013 14:19;Account eröffnen
+924;benutzer190;Anderes Tool;2;supporter5;18.12.2013 14:22;Neue Lehrerin - Eröffnen für Tools
+925;benutzer172;Personalcomputer;1;supporter2;19.12.2013 09:32;Dank - bitte verteilen
+926;benutzer190;Personenverwaltung;3;supporter2;19.12.2013 09:53;Account Caroline Mancini
+927;benutzer53;Notenool;3;supporter5;20.12.2013 10:55;IKA Lehrer inkl. 2x ersichtlich 
+928;benutzer186;Personalcomputer;2;supporter2;20.12.2013 11:22;Zi 502 - Tastatur PC-Nr. 50214
+929;benutzer31;Personalcomputer;2;supporter2;20.12.2013 11:32;PCs im Zi 401 können nicht anmelden
+930;benutzer108;Lokales Netzwerk;3;supporter10;20.12.2013 14:07;Zugriff auf Shares meiner Abteilung
+931;benutzer67;Personalcomputer;2;supporter10;28.12.2013 14:17;Neuer Stundenplaner-PC.
+932;benutzer200;Beamer;3;supporter2;06.01.2014 08:09;Beamer läuft nicht Zimmer 211 
+933;benutzer70;Mail;3;supporter10;06.01.2014 10:49;Email Stefan Ruchti aus GIBS-Listen löschen
+934;benutzer149;Personenverwaltung;3;supporter2;06.01.2014 13:38;neue E-Mail-Adresse
+935;benutzer149;Personalcomputer;1;supporter10;06.01.2014 15:43;Grenchen Zimmer 311
+936;benutzer128;PC-Programm;2;supporter2;06.01.2014 16:10;Vision
+937;supporter14;Lokales Netzwerk;2;supporter10;07.01.2014 14:23;Dose im Zimmer 102
+938;benutzer128;Personalcomputer;1;supporter2;07.01.2014 15:00;Fehlermeldung beim Aufstarten
+939;supporter12;Lokales Netzwerk;2;supporter12;08.01.2014 11:06;Drucker Arb geht nicht mehr
+940;benutzer144;Lokales Netzwerk;2;supporter10;09.01.2014 09:06;Kein Zugriff auf Laufwerk G (Sekretariat)
+941;benutzer131;Personalcomputer;2;supporter2;09.01.2014 09:21;PC  P03_11
+942;benutzer186;PC-Programm;3;supporter2;10.01.2014 09:04;Zi 502-PC 50206-50207-50212-50217
+943;benutzer108;Lokales Netzwerk;3;supporter10;10.01.2014 10:22;Persönliches Laufwerk Franziska Schatzmann
+944;benutzer108;Absenztool;3;supporter5;10.01.2014 10:25;BSCW- / Toolzugriff Franziska Schatzmann
+945;supporter5;Helpdesktool;3;supporter5;10.01.2014 11:16;flavia.totti eröffnen
+946;benutzer69;Personenverwaltung;3;supporter10;10.01.2014 14:02;Erstellung eines Lehreraccounts
+947;supporter10;Anderes Tool;2;supporter5;10.01.2014 14:14;Neuer ZZ Lehrer: Holzach Hans <Hans.Holzach@bbzsogr.ch>
+948;benutzer108;Windows;2;supporter2;13.01.2014 08:48;Fehlermeldung PC Hauptgebäude Zimmer 009
+949;benutzer139;Drucker;2;supporter10;13.01.2014 11:44;Drucker 102 mit Papierstau
+950;benutzer111;PC-Programm;3;supporter2;13.01.2014 17:51;Probleme beim Öffnen der Dateien
+951;benutzer154;Lokales Netzwerk;2;supporter10;14.01.2014 11:17;Berechtigung Leitungslaufwerk GISO
+952;benutzer20;Internet;2;supporter10;14.01.2014 13:18;WLAN für Tischmesse (iPAD / Drucker)
+953;benutzer132;Drucker;2;supporter10;14.01.2014 14:39;Drucker Oki im Büro neben Sekretariat
+954;benutzer128;PC-Programm;1;supporter2;14.01.2014 15:21;Fehlermeldungen
+955;benutzer200;Personalcomputer;3;supporter10;15.01.2014 08:02;Zimmer 211 PC
+956;benutzer172;Drucker;2;supporter10;15.01.2014 09:39;Keine Drucker installiert
+957;benutzer172;Drucker;3;supporter10;15.01.2014 09:39;Druckerproblem Lehrerstation
+958;benutzer102;Personalcomputer;2;supporter2;16.01.2014 07:43;Tastatur-Stecker an PC Defekt
+959;benutzer22;Personalcomputer;3;supporter2;16.01.2014 09:21;PC 103_01
+960;benutzer20;Lokales Netzwerk;2;supporter10;16.01.2014 15:58;WLAN Drucken iPad (Tischmesse)
+961;benutzer77;Anderes Tool;3;supporter5;20.01.2014 08:24;Passwort-Tool, Java will nicht mehr
+962;benutzer149;Personalcomputer;2;supporter2;20.01.2014 10:02;Grenchen, Zimmer 311
+963;supporter7;Lokales Netzwerk;1;supporter7;20.01.2014 11:22;Problem mit Netzwerkanbindung
+964;supporter14;Notebook;1;supporter12;20.01.2014 13:11;2 Ersatznotebook für INF Korrektur
+965;supporter12;Personalcomputer;2;blj-support;20.01.2014 13:14;Wöchentlicher Support Lernende KW 04 
+966;supporter12;Personalcomputer;2;supporter12;20.01.2014 13:15;Koordination Support Lernende KW 04
+967;benutzer186;PC-Programm;3;supporter10;22.01.2014 07:55;Zi 502 - 
+968;supporter14;Drucker;3;supporter10;22.01.2014 08:06;Drucker Zi104 / Inflabor
+969;supporter16;PC-Programm;2;supporter2;22.01.2014 11:02;Aktualisieren von Interwrite Workspace
+970;benutzer172;Drucker;3;supporter2;22.01.2014 11:40;Zi 012
+971;benutzer144;PC-Programm;1;supporter10;23.01.2014 16:47;zugriff remonte Desktop 2011
+972;benutzer91;Internet;2;supporter10;24.01.2014 08:36;Anschluss CIS
+973;benutzer186;Personalcomputer;2;supporter2;27.01.2014 14:21;Zi 309 - PC Nr. 30910
+974;benutzer10;Personalcomputer;2;supporter12;28.01.2014 10:42;PC Raum 102
+975;benutzer128;Personalcomputer;1;supporter2;28.01.2014 13:06;PC
+976;benutzer154;Windows;2;supporter2;28.01.2014 13:39;GIBS SO, Zimmer 010, Anmeldung
+979;supporter14;PC-Programm;2;supporter10;28.01.2014 16:50;Update Virenscanner
+980;benutzer128;PC-Programm;1;supporter10;28.01.2014 17:21;Terminal Server
+981;supporter12;Personalcomputer;2;supporter12;28.01.2014 17:30;Koordination Wöchentlicher Support KW 05
+982;supporter12;Personalcomputer;2;supporter4;28.01.2014 17:30;Wöchentlicher Support KW 05
+983;benutzer172;Lokales Netzwerk;3;supporter2;29.01.2014 11:32;Zimmer 012
+984;benutzer7;Anderes Tool;2;supporter5;30.01.2014 17:32;Neue Lehrkraft
+985;supporter10;Helpdesktool;2;supporter5;03.02.2014 10:24;Call für Hans Holzach (ZZ) eröffnen
+986;benutzer108;Notebook;2;supporter10;03.02.2014 13:47;Beschaffung Ersatz Akku
+987;benutzer169;Personalcomputer;1;supporter10;03.02.2014 14:48;Monitor GIGR 307_10 defekt
+988;benutzer154;Personalcomputer;3;supporter10;04.02.2014 15:00;Zimmer 011
+989;supporter10;Lokales Netzwerk;2;supporter10;05.02.2014 11:42;GISO Zi. 10 - Netzwerkkabel verlegen zu PC#4
+990;benutzer149;Personalcomputer;1;supporter2;06.02.2014 09:57;Zi 309, Solothurn, PC 16
+991;benutzer20;Personenverwaltung;1;supporter10;07.02.2014 09:26;Benutzer Thomas Kuster 
+992;supporter10;Personenverwaltung;2;supporter5;07.02.2014 13:29;Thomas Kuster  in den Tools löschen, wenn vorhanden
+993;benutzer190;Personenverwaltung;3;supporter5;07.02.2014 13:36;Account Wenger Rahel
+994;benutzer25;Drucker;2;supporter10;11.02.2014 11:44;Ricoh Drucker_Scanning
+995;supporter10;Helpdesktool;1;supporter5;20.02.2014 07:31;Jonathan Flück als User eröffnen
+996;benutzer20;Personalcomputer;2;supporter10;20.02.2014 11:42;schlechtes Bild grosser Bildschirm
+997;benutzer74;Notenool;1;supporter5;20.02.2014 15:22;keine Fächer selektiert
+998;benutzer40;Notenool;2;supporter5;21.02.2014 07:38;Noteneingabe
+999;benutzer169;Anderes Tool;1;supporter5;24.02.2014 08:17;Kann Schülerpassworte nicht mehr zurück setzen
+1000;benutzer77;Personalcomputer;2;supporter10;24.02.2014 09:29;Monitor - PC: GISO_010_09
+1001;benutzer77;Anderes Tool;2;supporter5;24.02.2014 09:46;Schüler-Passwort ändern
+1002;benutzer20;Beamer;2;supporter10;24.02.2014 09:54;IPad Bildprojektion von Beamer auf  Wand fehlerhaft
+1003;benutzer97;Personenverwaltung;2;supporter10;24.02.2014 13:56;Anpassung Mail-Verteiler GV_GISO_Lehrer
+1004;benutzer51;Drucker;3;supporter10;25.02.2014 08:19;Drucker GIG_208_P1
+1005;supporter15;andere HW;1;supporter10;27.02.2014 11:02;Monitor Info-Display Lehrerzimmer GISO
+1006;supporter10;Helpdesktool;2;supporter10;27.02.2014 11:08;Zuweisen nocht möglich
+1007;benutzer111;Personenverwaltung;3;supporter5;27.02.2014 15:56;Login für Schülerin
+1008;benutzer31;Windows;3;supporter2;27.02.2014 16:57;Drucker nicht installiert - KBGR311
+1009;benutzer31;Windows;3;supporter2;27.02.2014 17:00;Schüler können nicht auf P:\\Prüfung speichern
+1010;benutzer117;Mail;1;supporter10;28.02.2014 12:08;Kalender KBS-Schulzimmer 501
+1011;supporter15;Personalcomputer;3;supporter10;03.03.2014 10:41;neue Zimmer Automobiltechnik
+1012;benutzer226;Personalcomputer;2;supporter10;03.03.2014 11:15;GUGR_307
+1013;supporter14;Internet;2;supporter10;03.03.2014 11:27;kein Internetzugriff
+1014;benutzer128;PC-Programm;1;supporter5;03.03.2014 15:54;Schülerkennwort zurücksetzen
+1015;benutzer10;Windows;2;supporter4;04.03.2014 07:17;Microsoft Word
+1016;benutzer186;andere HW;2;supporter2;04.03.2014 08:04;Zi 502 - PC Nr. 50210
+1017;benutzer70;Personalcomputer;1;supporter2;04.03.2014 08:05;"Laufwerk \Leitung\"" permanent verbinden"""
+1018;benutzer31;Personalcomputer;2;supporter2;04.03.2014 08:54;PCs im Zi 411 KBS SO starten nicht
+1019;benutzer31;Personalcomputer;3;supporter2;04.03.2014 10:38;"aufgeschlagene Knie ;-) => wegen PC-Halterung"
+1020;supporter10;Personalcomputer;2;supporter4;06.03.2014 12:50;PC Zimmer 006
+1021;benutzer31;Personalcomputer;2;supporter10;06.03.2014 16:13;UBS-Stecker PC 12 KBS GR defekt
+1022;benutzer31;Windows;2;supporter10;06.03.2014 17:00;PC 31115 startet nicht
+1023;supporter12;PC-Programm;2;supporter4;08.03.2014 12:35;2 BCs im Arbeitszimmer neu dployen
+1024;benutzer226;Anderes Tool;2;supporter5;10.03.2014 07:41;Zugang Passwort-Tool PC-Zimmer GIBSGR
+1025;supporter10;andere HW;2;supporter12;10.03.2014 09:39;Infotag EBA im Alten Spital Solothurn - iPad, WLAN-Drucker
+1026;supporter6;Personalcomputer;2;supporter10;10.03.2014 10:46;PC GIGR_307_20 startet nicht
+1027;benutzer91;Personalcomputer;1;supporter10;10.03.2014 14:57;Pavillon Informatikzimmer
+1028;benutzer73;Windows;3;supporter2;10.03.2014 16:22;Drucker am Lehrer-PC Zi 309 KBS
+1029;benutzer172;Lokales Netzwerk;1;supporter2;11.03.2014 11:37;PC 306_01 kann nicht anmelden
+1030;benutzer31;Lokales Netzwerk;2;supporter2;11.03.2014 12:04;Auf P:\\Prüfung kann nicht gespeichert werden (KBS SO, Zi 401)
+1031;benutzer31;Windows;2;supporter2;11.03.2014 12:09;falsches Listentrennzeichen im Image?
+1032;benutzer131;Personalcomputer;3;supporter10;11.03.2014 17:00;P03_21
+1033;benutzer172;Lokales Netzwerk;1;supporter2;12.03.2014 11:34;GISO_308_01 hat kein Netz
+1034;supporter2;Windows;1;supporter2;12.03.2014 15:17;Fehler Word
+1035;benutzer4;Lokales Netzwerk;2;supporter10;13.03.2014 08:19;"Zugriff auf \Entrepreneurship\"""""
+1036;benutzer4;Lokales Netzwerk;1;supporter2;13.03.2014 10:34;GISIO_P14_01
+1037;benutzer174;Personalcomputer;1;supporter10;13.03.2014 12:04;gespeichertes Passwort
+1038;benutzer4;PC-Programm;1;supporter10;13.03.2014 13:10;Installation lokaler SW
+1039;benutzer226;Personalcomputer;1;supporter10;13.03.2014 15:16;GIBSGR Z309
+1040;supporter12;Personalcomputer;2;supporter10;14.03.2014 11:11;GISO_009_02 startet ohne NetCim
+1041;supporter10;andere HW;2;supporter10;17.03.2014 10:56;Defekte Disk beim Server GISO SH2
+1042;benutzer4;Personenverwaltung;1;supporter10;17.03.2014 14:39;"Passwort von \Benjamin Müller - PRM2b\"""""
+1043;benutzer210;Lokales Netzwerk;2;supporter10;17.03.2014 14:47;Ordner Löschen
+1044;benutzer149;Personalcomputer;3;supporter2;18.03.2014 18:12;Grenchen 311 und Solothurn 309, Excel
+1045;benutzer76;andere HW;2;supporter10;18.03.2014 18:41;PC Nummern für Anmeldung fehlen
+1046;benutzer44;Windows;2;supporter2;21.03.2014 10:14;PC hat kein Netz
+1047;benutzer186;Personalcomputer;2;supporter2;21.03.2014 14:33;PC50215 - Zi 502
+1048;benutzer51;Personalcomputer;2;supporter10;25.03.2014 08:49;PC Raum 307 Grenchen
+1049;benutzer200;Personenverwaltung;1;supporter5;26.03.2014 11:49;Account
+1050;benutzer186;Windows;2;supporter2;27.03.2014 13:08;PC Zi 502
+1051;benutzer186;Lokales Netzwerk;3;supporter2;27.03.2014 13:10;PC Zi 502 - PC Nr. 50210
+1052;benutzer153;Personalcomputer;1;supporter2;28.03.2014 09:28;Rosengarten 401 PC startet nicht
+1054;benutzer220;Personalcomputer;1;supporter2;31.03.2014 09:20;Tastatur PC GISO_305_01
+1055;benutzer55;PC-Programm;3;supporter2;31.03.2014 10:39;Zugriff Laufwerk V.//
+1056;benutzer9;Absenztool;2;supporter10;31.03.2014 10:43;Zugriff über VPN auf Absenz- und NotenTool
+1057;benutzer10;Notenool;2;supporter10;31.03.2014 15:03;VPN Verbindung
+1058;benutzer111;Personalcomputer;3;supporter2;31.03.2014 18:44;Zimmer 204
+1059;benutzer186;Lokales Netzwerk;2;supporter2;02.04.2014 08:32;Zi 502
+1060;benutzer186;Windows;2;supporter2;02.04.2014 08:33;Zi 502
+1061;benutzer111;Personalcomputer;3;supporter2;03.04.2014 14:06;Zimmer 204 PC19
+1062;benutzer31;Beamer;2;supporter2;03.04.2014 16:35;Beamerbild und Leinwand schräg
+1063;benutzer111;Windows;3;supporter2;04.04.2014 08:21;PC19 im Zimmer 204
+1064;benutzer111;Windows;2;supporter2;04.04.2014 14:31;"Rundungsproblem , statt ;"
+1065;benutzer117;Mail;2;supporter2;22.04.2014 09:24;Mails funktionieren nur noch Intern
+1066;benutzer66;Lokales Netzwerk;3;supporter10;23.04.2014 06:27;ZI 008 Anmeldeserver nicht verfügbar 
+1067;supporter12;Personalcomputer;2;supporter12;23.04.2014 06:32;PCs im Zi 405 und ZI 401 aufstellen
+1068;benutzer77;Personalcomputer;1;supporter10;23.04.2014 09:15;PC-Raum 006 Mediothek
+1069;benutzer117;Lokales Netzwerk;2;supporter2;23.04.2014 13:41;Lehrer PC, Zimmer 401
+1070;benutzer153;PC-Programm;2;supporter2;24.04.2014 08:38;Lehrer-PC Zi 401 Rosengarten
+1071;benutzer172;andere HW;2;supporter10;24.04.2014 09:21;Visualiser 405
+1072;supporter12;Beamer;3;supporter12;25.04.2014 09:14;Kein Sound in der Aula
+1073;benutzer186;Personalcomputer;2;supporter10;25.04.2014 15:23;Zi 502 - PC-Nr. 50218
+1074;benutzer79;Personalcomputer;2;supporter10;25.04.2014 17:04;Presenter in das Zimmer 008 platzieren
+1075;benutzer155;Drucker;2;supporter2;26.04.2014 10:31;Drucker 308
+1076;benutzer77;Personalcomputer;2;supporter10;28.04.2014 13:18;Kein Anmeldeserver - GISO_401_07
+1077;benutzer31;Anderes Tool;3;supporter2;01.05.2014 07:58;Keine Verbindung mit Vision
+1078;benutzer153;andere HW;1;supporter2;02.05.2014 13:35;Workspace Zimmer 404 funktioniert nicht
+1079;benutzer51;andere HW;2;supporter10;02.05.2014 14:14;PC Raum 307
+1080;benutzer120;PC-Programm;3;supporter2;05.05.2014 11:08;AutoCAD 2010 / 2014
+1081;benutzer120;PC-Programm;2;supporter10;05.05.2014 11:15;Plotter Zim 219
+1082;benutzer172;PC-Programm;3;supporter2;05.05.2014 14:34;Wincam Zimmer 405
+1083;benutzer31;Anderes Tool;3;supporter2;05.05.2014 16:48;Keine Verbindung mit Vision
+1084;benutzer108;Personalcomputer;1;supporter10;06.05.2014 08:55;Notebook GISO_P01_01
+1085;benutzer218;Personalcomputer;3;supporter2;06.05.2014 10:36;Wackelkontakt Beamer
+1086;benutzer40;Lokales Netzwerk;2;supporter10;06.05.2014 14:51;edu
+1087;benutzer46;Personalcomputer;3;supporter2;06.05.2014 14:57;Mediothek PCZimmer
+1088;benutzer73;PC-Programm;3;supporter2;06.05.2014 21:23;Software Interwrite
+1089;benutzer51;andere HW;1;supporter2;07.05.2014 08:07;PC Raum 307 in Grenchen
+1090;supporter10;Anderes Tool;2;supporter5;07.05.2014 10:35;Rita Amato als Benutzer eröffnen
+1091;supporter2;Drucker;1;supporter10;08.05.2014 15:24;Druckerstau Zi405
+1092;supporter2;Drucker;1;supporter2;08.05.2014 15:27;Druckerverbindung Medio Grenchen
+1093;supporter6;Lokales Netzwerk;3;supporter10;12.05.2014 09:14;W-LAN Grenchen
+1094;supporter6;Personalcomputer;2;supporter10;12.05.2014 09:16;GIBS Gre Inf Zi 307
+1095;benutzer160;Personalcomputer;3;supporter10;13.05.2014 11:29;Versschwundenes Profil
+1096;supporter10;Helpdesktool;2;supporter5;13.05.2014 14:33;Bossart Max <Max.Bossart@bbzsogr.ch> im HD-Tool eröffnen
+1097;benutzer51;Anderes Tool;2;supporter5;13.05.2014 14:36;Passwort der Schüler kann nicht gesetzt werden
+1098;benutzer91;Windows;1;supporter2;14.05.2014 10:20;Pavillon PC-Raum
+1099;benutzer31;Lokales Netzwerk;3;supporter10;15.05.2014 14:14;Login Zi. 325 in Grenchen
+1100;benutzer139;Lokales Netzwerk;2;supporter10;15.05.2014 15:37;WLAN Zimmer107
+1101;benutzer51;andere HW;3;supporter10;16.05.2014 14:28;PC Raum 307 in Grenchen 
+1102;benutzer77;Beamer;2;supporter10;16.05.2014 14:30;Bild- und Tonübertragung
+1103;benutzer222;Personalcomputer;1;supporter2;20.05.2014 08:37;Synchronisation DVD nicht möglich
+1104;benutzer175;Windows;1;supporter10;20.05.2014 10:37;VPN installieren auf mein Laptop
+1105;benutzer190;Personenverwaltung;2;supporter2;22.05.2014 13:51;Personalaustritte per 31.7.2014
+1106;benutzer190;Personenverwaltung;3;supporter2;22.05.2014 13:53;Personaleintritt per 1.6.2014
+1107;benutzer226;Anderes Tool;2;supporter5;26.05.2014 10:15;Codewort Schülerfeedback
+1108;benutzer120;Drucker;3;supporter10;27.05.2014 12:33;Plotter Zimmer 219 BBZ Grenchen
+1109;benutzer51;andere HW;1;supporter2;28.05.2014 09:55;PC Raum 307 in Grenchen
+1110;benutzer51;Internet;3;supporter10;28.05.2014 09:58;copy-stop
+1111;benutzer186;Windows;3;supporter2;02.06.2014 08:02;PC Zi 502, Station PC50209
+1112;benutzer128;Personalcomputer;3;supporter2;02.06.2014 08:06;Aufstarten
+1113;benutzer116;Beamer;3;supporter10;02.06.2014 10:52;Beamer
+1114;benutzer190;Personenverwaltung;2;supporter2;02.06.2014 13:47;Account Friedli Dominik
+1115;supporter10;Helpdesktool;2;supporter5;02.06.2014 16:46;Benutzer hans.imboden kann amn HD-Tool nicht anmelden
+1116;benutzer44;Lokales Netzwerk;1;supporter2;03.06.2014 06:59;Passwort
+1117;benutzer195;Anderes Tool;2;supporter2;03.06.2014 16:19;Raumverwaltung kalender
+1118;supporter10;Anderes Tool;1;supporter5;04.06.2014 14:10;Tippdehlerrrr
+1121;benutzer190;Personenverwaltung;3;supporter10;04.06.2014 14:55;Account Schumacher Beat
+1122;benutzer190;Personenverwaltung;3;supporter10;04.06.2014 14:55;Account Brand Simon
+1124;benutzer81;Helpdesktool;1;supporter5;05.06.2014 08:33;Probleme beim Einloggen in helpdesk
+1125;benutzer190;Personenverwaltung;3;supporter10;05.06.2014 14:45;Account Nobs Anna-Jane
+1126;benutzer190;Personenverwaltung;3;supporter10;05.06.2014 14:46;Account Bayard Frédéric
+1127;benutzer190;Personenverwaltung;3;supporter10;05.06.2014 14:53;Account Holzach Hans
+1128;benutzer190;Personenverwaltung;3;supporter10;05.06.2014 14:54;Account Tremp Peter
+1129;benutzer81;Lokales Netzwerk;2;supporter10;05.06.2014 15:54;ZZ Schulnetzwerk
+1130;supporter10;BSCW;2;supporter14;06.06.2014 09:34;Benutzer eröffnen
+1131;supporter10;Personenverwaltung;1;supporter5;06.06.2014 09:35;Neue Lehrerpersonen
+1132;supporter6;Anderes Tool;2;supporter5;10.06.2014 14:16;Benutzer einrichten
+1133;supporter2;Lokales Netzwerk;1;supporter2;11.06.2014 11:06;kein Netz im Zi 109
+1134;supporter2;Lokales Netzwerk;1;supporter2;11.06.2014 11:07;Kein Nezt im Zi103
+1135;benutzer226;andere HW;2;supporter2;11.06.2014 11:59;PC GIBSGR 307-16
+1136;benutzer226;Personalcomputer;2;supporter2;16.06.2014 09:49;GIBSGR 307
+1137;benutzer66;Personalcomputer;3;supporter11;17.06.2014 14:09;Zi 112
+1138;benutzer180;PC-Programm;2;supporter2;23.06.2014 07:51;Aufstarten der PCs im Pavillon
+1139;benutzer180;Personalcomputer;2;supporter2;23.06.2014 08:10;Pavillon
+1140;benutzer222;Mail;3;supporter10;24.06.2014 07:38;Outlook funktioniert nicht
+1141;benutzer155;Anderes Tool;3;supporter5;24.06.2014 12:18;Unterrichtsprogramm
+1142;benutzer128;Personalcomputer;1;supporter11;25.06.2014 07:36;Zimmer 204
+1143;benutzer94;Mail;2;supporter2;25.06.2014 15:36;Abmeldung
+1144;supporter14;Notebook;3;supporter11;25.06.2014 20:47;Ausleihe von 2 Notebooks
+1145;supporter14;Lokales Netzwerk;3;supporter10;30.06.2014 09:14;DNS Probleme
+1146;supporter14;Lokales Netzwerk;3;supporter10;30.06.2014 09:16;McAfee 8.8
+1147;benutzer151;Lokales Netzwerk;2;supporter11;02.07.2014 08:05;LAN-Kabel
+1148;benutzer117;Mail;1;supporter2;04.07.2014 17:43;alte / neue Lehrer
+1150;benutzer111;Personalcomputer;2;supporter2;24.07.2014 15:51;Zimmer 204
+1151;benutzer172;Drucker;2;supporter11;31.07.2014 16:50;GISO_308_02 kann nicht drucken
+1152;supporter2;Lokales Netzwerk;1;supporter11;04.08.2014 09:31;Switch Zimmer 006 GISO Hauptgebäude
+1153;supporter10;Helpdesktool;3;supporter5;05.08.2014 16:45;Account für E. Grossenbacher
+1154;benutzer190;Personenverwaltung;3;supporter10;07.08.2014 07:14;Anmeldung Andreatta Cyril
+1155;benutzer108;Lokales Netzwerk;2;supporter2;08.08.2014 07:49;Zugangsberechtigung
+1156;benutzer210;Internet;3;supporter10;08.08.2014 09:46;WLAN KBS
+1157;benutzer97;Internet;1;supporter10;08.08.2014 10:30;Neuer W-LAN Zugang für Lernende
+1158;benutzer44;Drucker;3;supporter11;08.08.2014 12:49;Drucken
+1159;benutzer148;Windows;3;supporter2;11.08.2014 07:57;zwei PCs im Informatikraum, Pavillon
+1160;benutzer202;Drucker;2;supporter2;11.08.2014 08:53;Drucker funktioniert nicht
+1161;benutzer165;Drucker;3;supporter10;11.08.2014 10:48;Drucker installieren in Büro
+1162;benutzer84;Personalcomputer;2;supporter2;11.08.2014 11:48;Zimmer 405 - GIBS Hauptgebäude
+1163;benutzer116;Drucker;1;supporter2;11.08.2014 14:20;Drucker 404 geht nicht
+1164;benutzer186;Personalcomputer;3;supporter2;11.08.2014 14:54;BA14A - Zi 502  - Benutzername und Passwort
+1165;supporter2;Personenverwaltung;2;supporter2;12.08.2014 11:34;Zugriff Kalender GISO
+1166;benutzer154;Personalcomputer;2;supporter2;12.08.2014 13:40;Zimmer 401 / netCIM
+1167;benutzer180;Lokales Netzwerk;3;supporter2;12.08.2014 16:18;GAE 2a
+1168;benutzer117;Notenool;2;supporter5;12.08.2014 16:39;2 neue Lehrer im EDU
+1169;benutzer172;Windows;2;supporter2;13.08.2014 14:48;Zimmer 405
+1170;benutzer148;Windows;3;supporter10;14.08.2014 11:39;Compi GISO_P03_12 blockiert
+1171;supporter6;Internet;2;supporter10;14.08.2014 15:51;Mail-adresse neuer Lehrer ZZ
+1173;benutzer91;Internet;3;supporter10;18.08.2014 15:25;Cis - Turnlehrerzimmer
+1175;benutzer165;Windows;1;supporter10;19.08.2014 09:22;Hänger im Netz/Lautsprecher
+1176;supporter10;Personenverwaltung;3;supporter5;19.08.2014 10:51;nachgemeldete Schüler
+1177;benutzer77;Personalcomputer;2;supporter2;20.08.2014 08:39;Zi 401
+1178;benutzer62;Mail;1;supporter10;20.08.2014 09:20;Test für Jens
+1179;benutzer13;BSCW;2;supporter14;20.08.2014 10:24;Keine Daten vorhanden
+1180;benutzer60;Personalcomputer;3;supporter11;20.08.2014 11:18;2 PC starten nicht
+1181;benutzer117;Mail;2;supporter2;21.08.2014 14:51;Verteiler KBS Lehrer alle aktualisieren
+1182;benutzer70;BSCW;3;supporter14;22.08.2014 10:23;Zugang A.J. Nobs, F. Bayard
+1183;benutzer84;andere HW;1;supporter2;25.08.2014 10:25;Zimmer 401 / PC GISO_401_24
+1184;benutzer128;Personalcomputer;2;supporter2;25.08.2014 10:59;PC 40102
+1185;benutzer128;Personalcomputer;2;supporter2;25.08.2014 11:01;PC fehlt...
+1187;benutzer63;Lokales Netzwerk;1;supporter2;26.08.2014 11:11;Persönliches Laufwerk wird nicht angezeigt
+1188;supporter10;Anderes Tool;1;supporter5;27.08.2014 11:11;Passwort-Tool
+1189;benutzer111;PC-Programm;3;supporter2;29.08.2014 07:40;Vision nicht alle Clients
+1190;supporter16;Mail;2;supporter2;29.08.2014 11:11;Mitteilung aus der Mediothek
+1191;benutzer84;PC-Programm;2;supporter2;29.08.2014 11:14;BMH- Lehrer CD
+1192;benutzer165;Personalcomputer;1;supporter11;29.08.2014 15:06;ungebrauchtes Gerät abholen.
+1193;benutzer154;Personalcomputer;3;supporter2;01.09.2014 13:09;Zi. 405, PC 405 00-Lehrerstation 
+1194;benutzer40;Personalcomputer;2;supporter11;02.09.2014 17:08;Zimmer R 402
+1195;benutzer50;Drucker;1;supporter11;03.09.2014 17:16;Drucker ist offline
+1196;benutzer4;andere HW;2;supporter11;04.09.2014 10:09;GISO 401 - Lautsprecher
+1199;benutzer190;Personenverwaltung;2;supporter10;04.09.2014 10:47;Account Siegenthaler Susanne
+1200;benutzer190;Personenverwaltung;2;supporter10;04.09.2014 10:48;Account Suter Alfred
+1201;benutzer51;Drucker;1;supporter2;06.09.2014 10:09;Druckeranschluss in Solothurn
+1202;benutzer186;PC-Programm;3;supporter2;08.09.2014 14:14;Clean and Copy Zi 502
+1203;benutzer7;Lokales Netzwerk;3;supporter2;08.09.2014 15:13;kein Netzwerkzugriff
+1204;benutzer200;Drucker;2;supporter11;09.09.2014 07:22;Drucker ist permanent offline
+1205;benutzer108;Lokales Netzwerk;3;supporter2;09.09.2014 10:32;"Zugriff auf Bereichsshare \Berufsmaturität\"""""
+1206;supporter3;Anderes Tool;1;supporter2;09.09.2014 11:46;Extranet EBZ
+1207;benutzer190;Personenverwaltung;3;supporter2;10.09.2014 08:35;Account Paraskevas-Gehri Sonja
+1208;benutzer154;Windows;3;supporter2;10.09.2014 10:24;NetCIM
+1209;benutzer180;PC-Programm;2;supporter2;10.09.2014 13:48;automatisierte Werbung
+1210;benutzer180;Internet;3;supporter2;10.09.2014 14:14;Internet- Browser
+1211;benutzer172;andere HW;2;supporter10;11.09.2014 09:19;Switch Zimmer 405
+1212;benutzer91;Personalcomputer;3;supporter11;11.09.2014 10:38;Informatikzimmer Pavillon
+1213;benutzer153;Personalcomputer;1;supporter2;11.09.2014 10:52;Monitor unscharf Zimmer 404 Rosengarten
+1214;benutzer60;Lokales Netzwerk;3;supporter11;12.09.2014 13:58;Telefon im Lehrerzimmer Pavillon geht nicht
+1215;benutzer108;Lokales Netzwerk;3;supporter2;15.09.2014 09:13;R:\\Berufsmaturität
+1216;benutzer120;Personalcomputer;2;supporter2;15.09.2014 15:00;Zimmer 309 Grenchen
+1217;benutzer60;Drucker;2;supporter11;16.09.2014 14:10;Drucker in P03 meldet Papierstau
+1218;benutzer117;Absenztool;2;supporter5;16.09.2014 15:17;Martin Allemann kann nicht mehr im EDU
+1219;benutzer38;Notenool;2;supporter5;17.09.2014 10:01;Klassen BMZ 1b und KVM 1a im Fach Geschichte an der KBS Solothurn
+1220;benutzer148;Personalcomputer;2;supporter11;18.09.2014 09:41;Bildschirm
+1221;benutzer38;Personalcomputer;1;supporter2;18.09.2014 17:04;Probleme mit dem Abspielen von Medien
+1222;benutzer38;Personalcomputer;3;supporter2;18.09.2014 17:06;Ergänzung
+1223;benutzer186;Lokales Netzwerk;2;supporter2;18.09.2014 17:16;Zi 502 - PC Nr. 50209 / PC50205
+1224;benutzer34;Drucker;3;supporter10;19.09.2014 14:20;drucken nicht möglcih
+1225;benutzer128;Personalcomputer;2;supporter2;22.09.2014 09:04;PC's Zi 401
+1226;benutzer195;Anderes Tool;2;supporter5;22.09.2014 16:47;Passwort-Tool geht nicht
+1227;benutzer195;Anderes Tool;2;supporter5;24.09.2014 08:26;Account für Listentool
+1228;benutzer135;Personalcomputer;2;supporter11;24.09.2014 11:55;Lautstärke im Zimmer KBS 203 und 202
+1229;benutzer180;Drucker;2;supporter11;24.09.2014 15:05;Drucker und PC
+1230;benutzer22;PC-Programm;2;supporter11;25.09.2014 09:04;Programme auf Lehrer PC in Zimmer 103 nicht auffindbar.
+1231;benutzer60;Mail;1;supporter11;26.09.2014 12:04;Verteiler Bereich Förderpädagogik aktualisieren
+1232;supporter2;Personalcomputer;1;supporter11;06.10.2014 08:10;KBS Solothurn PC im Zimmer 304
+1233;benutzer148;Lokales Netzwerk;3;supporter2;17.10.2014 11:07;Outlook
+1234;benutzer180;PC-Programm;2;supporter10;20.10.2014 11:23;Pavillon PC-Raum
+1235;benutzer180;Windows;2;supporter10;20.10.2014 14:17;Pavillon
+1236;benutzer180;Windows;2;supporter11;20.10.2014 15:08;Pavillon
+1237;benutzer111;Personalcomputer;2;supporter2;20.10.2014 17:59;Bluescreen im Zimmer 309
+1238;benutzer135;PC-Programm;3;supporter2;22.10.2014 10:02;Fehlende SW Zimmer 501
+1239;benutzer22;Drucker;2;supporter11;22.10.2014 15:23;Drucker Zimmer 101
+1240;benutzer145;Personalcomputer;2;supporter11;22.10.2014 16:52;Büro Keller U06
+1241;benutzer60;Lokales Netzwerk;2;supporter10;24.10.2014 09:00;kein ausreichender WLAN-Empfang im P11
+1242;benutzer73;Windows;3;supporter2;24.10.2014 11:46;PC-Nr. 02 im Zimmer 309 KBS
+1243;benutzer139;Lokales Netzwerk;3;supporter10;27.10.2014 08:35;WLAN Zimmer107
+1244;benutzer195;Windows;2;supporter11;28.10.2014 07:45;Passwort wechseln
+1245;benutzer79;Personalcomputer;3;supporter11;28.10.2014 08:00;Kein Netzwerkzugang
+1246;benutzer69;Anderes Tool;2;supporter5;28.10.2014 14:59;Kein Zugriff auf Passwort-Tool
+1247;benutzer195;Anderes Tool;2;supporter5;28.10.2014 15:15;Zugriff Noten- und Absenzen-Tool
+1248;supporter10;Personalcomputer;2;supporter11;29.10.2014 12:52;PCs im CIS
+1249;benutzer172;Personalcomputer;2;supporter11;29.10.2014 13:30;Startet nicht
+1250;benutzer108;Lokales Netzwerk;3;supporter10;29.10.2014 17:03;Zugriffsberechtigung Bereichslaufwerke
+1251;benutzer31;Lokales Netzwerk;3;supporter10;30.10.2014 11:32;Zugriff auf Netzwerk fehlt
+1252;benutzer153;Personalcomputer;1;supporter2;31.10.2014 14:42;2 PCs starten nicht
+1253;benutzer120;Windows;3;supporter10;03.11.2014 15:54;Zimmer 309 in Grenchen
+1254;benutzer115;PC-Programm;3;supporter2;04.11.2014 14:59;PC in room 305 / GIBS
+1255;benutzer31;Personalcomputer;2;supporter2;05.11.2014 08:12;Lehrerpc KBSO Zi401 - kein Netz
+1256;benutzer108;Lokales Netzwerk;3;supporter10;06.11.2014 11:27;"\Admin-Ordner\"" im Bereichslaufwerk Berufsmaturität"""
+1257;benutzer139;Internet;3;supporter10;06.11.2014 15:18;Internet Mediothek
+1258;benutzer186;andere HW;2;supporter11;07.11.2014 16:36;Zi 304 - PC WS1034
+1259;benutzer51;andere HW;2;supporter10;10.11.2014 08:38;PC Raum 307 in Grenchen
+1260;benutzer151;PC-Programm;3;supporter10;10.11.2014 11:07;Zi 911 / Internet-Explorer reagiert nicht mehr
+1261;benutzer220;Mail;1;supporter10;10.11.2014 17:34;Zimmerreservierung PC-Raum Pavillon
+1262;benutzer31;Lokales Netzwerk;2;supporter2;11.11.2014 08:58;Netzzugriff funktioniert nicht
+1263;benutzer131;Anderes Tool;2;supporter10;11.11.2014 10:41;Outlook/Reservation PC-Raum
+1264;benutzer108;Mail;3;supporter10;12.11.2014 09:37;Schulkalender auf Smartphone
+1265;benutzer145;Windows;1;supporter11;12.11.2014 16:25;Word
+1266;benutzer131;Personalcomputer;2;supporter11;13.11.2014 08:07;GISO_M2_07
+1267;benutzer84;andere HW;1;supporter11;13.11.2014 08:47;Zimmer 405 - PC 05 und 09
+1268;benutzer73;Windows;3;supporter2;13.11.2014 11:27;PC-Nr. 30902 Unvollständiges Aufstarten
+1269;benutzer51;andere HW;2;supporter10;14.11.2014 12:55;PC Raum 309 in Grenchen
+1271;benutzer190;Personenverwaltung;2;supporter2;14.11.2014 16:23;Account Meier Andreas
+1272;benutzer120;andere HW;1;supporter2;17.11.2014 08:25;Zimmer 309 Grenchen
+1273;benutzer120;Anderes Tool;3;supporter2;17.11.2014 08:29;Kennwort
+1274;supporter14;Internet;3;supporter10;17.11.2014 16:51;Zugriff auf verschiedene Webseiten geht nicht
+1275;benutzer60;Lokales Netzwerk;1;supporter2;17.11.2014 23:46;VPN wirft mich oft raus
+1276;benutzer131;Personalcomputer;2;supporter11;18.11.2014 09:55;Hänger
+1278;benutzer60;Absenztool;3;supporter10;18.11.2014 14:34;Absenzentool extrem langsam
+1279;benutzer153;Personalcomputer;3;supporter2;18.11.2014 16:05;PC Zimmer 404 Rosengarten kein Ton
+1280;benutzer172;Personalcomputer;2;supporter11;19.11.2014 15:00;CD ROM offen
+1281;benutzer172;Drucker;2;supporter10;19.11.2014 16:13;Zimmer 401
+1282;benutzer31;Anderes Tool;3;supporter2;20.11.2014 15:45;Clean&Copy
+1283;benutzer197;Internet;3;supporter2;24.11.2014 07:43;Internetausfall in Grenchen
+1284;benutzer32;Lokales Netzwerk;2;supporter10;24.11.2014 09:20;kein Laufwerk P:\\
+1285;supporter6;andere HW;2;supporter10;24.11.2014 13:29;Grenchen Zi 309
+1286;benutzer128;Internet;3;supporter10;25.11.2014 07:06;WLAN
+1287;benutzer135;Personalcomputer;2;supporter2;25.11.2014 11:46;PCs im Zimmer 205 KBS
+1288;benutzer19;Anderes Tool;1;supporter10;26.11.2014 13:21;Schülerkennwort
+1289;benutzer4;Personalcomputer;2;supporter11;26.11.2014 13:43;PC GISO_301_01
+1290;benutzer172;Windows;1;supporter11;26.11.2014 14:57;Anregung
+1291;benutzer169;Internet;2;supporter10;27.11.2014 08:27;Zugriff auf Internetseiten mit Login funktioniert nicht
+1294;benutzer153;PC-Programm;2;supporter2;27.11.2014 16:29;Interwrite Workspace funktioniert nicht mehr
+1295;benutzer180;PC-Programm;2;supporter11;01.12.2014 09:56;Pavillon PC-Raum
+1296;benutzer149;PC-Programm;2;supporter2;02.12.2014 13:30;Schüler-Überwachungsprogramm fehlt
+1297;benutzer141;Personalcomputer;2;supporter11;03.12.2014 08:45;Tatatur
+1298;benutzer71;Drucker;1;supporter10;03.12.2014 13:38;Emailadresse Drucker
+1299;benutzer151;PC-Programm;2;supporter11;04.12.2014 15:02;ZI404 / Programm Schülerkennwort
+1300;benutzer40;PC-Programm;2;supporter2;04.12.2014 15:11;DVD Zimmer 402
+1301;benutzer60;Windows;2;supporter11;05.12.2014 10:52;Auflösung passt nicht zu Beamer -> kein Bild
+1302;benutzer180;PC-Programm;2;supporter10;05.12.2014 13:53;PC-Raum Pavillon
+1303;benutzer60;PC-Programm;2;supporter11;09.12.2014 07:45;Kein Java auf Image
+1304;benutzer195;Anderes Tool;2;supporter2;09.12.2014 14:30;Psw-Tool
+1305;benutzer172;Drucker;3;supporter10;10.12.2014 13:49;Zimmer 405 keine Drucker installiert
+1306;supporter5;Windows;1;supporter11;12.12.2014 13:39;PC Zimmer 107 - Profil speichern?
+1307;benutzer190;Personenverwaltung;2;supporter2;15.12.2014 08:36;Account Vogt-Bürki Kathrin
+1308;benutzer4;Personalcomputer;2;supporter11;16.12.2014 10:42;Zi 405
+1309;benutzer190;Personenverwaltung;2;supporter2;17.12.2014 11:25;Account Kuster Conrad
+1310;supporter2;Personalcomputer;2;supporter2;17.12.2014 15:52;Neuer PC im Zimmer 105
+1311;benutzer180;PC-Programm;2;supporter11;19.12.2014 13:19;Pavillon PC-raum
+1312;benutzer60;Drucker;2;supporter10;27.12.2014 15:05;GISO_P14_P1 Offline
+1313;benutzer154;Lokales Netzwerk;3;supporter2;05.01.2015 08:09;Netzwerkausfall im 3. Stock
+1314;benutzer139;Windows;3;supporter10;05.01.2015 10:27;PC 107 virenverseucht
+1315;supporter3;Personalcomputer;2;supporter2;05.01.2015 15:19;Word Dokumente starten mit Open Office
+1316;supporter3;andere HW;1;supporter2;05.01.2015 15:21;Info-Display ausser Betrieb
+1317;supporter10;andere HW;2;supporter10;05.01.2015 15:24;Info-Display GISO Lehrerzimmer Pavi
+1318;benutzer128;Personalcomputer;2;supporter2;05.01.2015 15:59;Defekter PC
+1319;benutzer31;Windows;2;supporter2;06.01.2015 09:02;Zi 401 PC 12 startet nicht
+1320;benutzer111;PC-Programm;3;supporter2;06.01.2015 18:05;Kein Vision auf Lehrer-PC
+1321;benutzer108;Mail;3;supporter10;07.01.2015 18:26;GISO.Schulkalender auf Smartphones 
+1322;benutzer51;Windows;3;supporter10;08.01.2015 08:27;Anmeldeserver nicht verfügbar in Zi 207
+1323;benutzer190;Personenverwaltung;2;supporter2;08.01.2015 09:16;Austritt Fenten Günter
+1324;benutzer172;Windows;2;supporter11;08.01.2015 10:46;Wartungsmodus ausschalten
+1325;benutzer148;Windows;2;supporter11;08.01.2015 16:09;American Megatrends...
+1326;benutzer172;Windows;2;supporter11;08.01.2015 16:53;PC starten nicht
+1327;benutzer153;andere HW;2;supporter2;11.01.2015 14:31;Lautsprecher bleibt stumm
+1328;supporter10;andere HW;2;supporter10;12.01.2015 09:47;Monitor Info-Disp. Lehrerzimmer Pavi.
+1330;benutzer93;Personalcomputer;1;supporter2;14.01.2015 10:07;defekt / kein PC im Schulhaus 2
+1331;benutzer151;Drucker;2;supporter2;14.01.2015 10:34;Fehler Drucker Zi309 GISO
+1332;benutzer172;Windows;3;supporter11;14.01.2015 13:51;Zimmer 405
+1333;benutzer147;Anderes Tool;3;supporter2;16.01.2015 11:15;Lizenz Interworkspace
+1334;benutzer190;Personenverwaltung;3;supporter2;16.01.2015 15:56;Account Soller Claudia
+1335;benutzer190;Personenverwaltung;3;supporter2;16.01.2015 15:57;Account Hiltbrunner Urs
+1336;benutzer190;Personenverwaltung;3;supporter2;16.01.2015 15:59;Account Bettoni Sandra
+1337;benutzer190;Personenverwaltung;3;supporter2;16.01.2015 16:01;Account Kopp André
+1338;benutzer190;Personenverwaltung;2;supporter2;16.01.2015 16:04;Account Schütz Thomas
+1339;supporter2;andere HW;1;supporter11;19.01.2015 07:39;KBS Solothurn Zi205
+1340;benutzer108;Lokales Netzwerk;3;supporter2;19.01.2015 09:13;Berechtigungsvergabe
+1341;benutzer226;Anderes Tool;3;supporter10;19.01.2015 14:20;Schülerpasswort ändern
+1342;benutzer226;Personalcomputer;1;supporter10;19.01.2015 15:25;GIBSGR 307
+1343;benutzer226;Windows;1;supporter10;19.01.2015 15:28;Benutzerprofileinstellungen Vuk Djurinovic oder so
+1344;supporter10;andere HW;2;supporter11;20.01.2015 11:05;visualizer im Zi 210
+1345;benutzer128;PC-Programm;2;supporter10;20.01.2015 13:54;Passwort zurücksetzen - KBS50207
+1346;benutzer131;andere HW;2;supporter11;21.01.2015 16:11;Verbindung Doku-Kamera zum Beamer
+1347;benutzer190;Personenverwaltung;3;supporter2;23.01.2015 16:02;Account Hänggi Cédric
+1348;benutzer31;PC-Programm;3;supporter2;27.01.2015 14:20;PC's starten nicht Zi 401/311 KBS
+1349;benutzer172;andere HW;2;supporter11;28.01.2015 13:43;Zimmer 401
+1350;benutzer172;Helpdesktool;2;supporter5;28.01.2015 13:45;Einträge Löschen ?
+1351;benutzer51;andere HW;3;supporter10;29.01.2015 11:40;PC Raum 307 in Grenchen
+1352;benutzer5;Windows;3;supporter2;15.02.2015 11:22;Omiga-plus Viren
+1353;benutzer171;Absenztool;3;supporter5;16.02.2015 09:43;CIS
+1354;benutzer169;Personalcomputer;1;supporter10;16.02.2015 10:03;PC starten teilweise nicht mehr 
+1355;benutzer153;PC-Programm;3;supporter2;17.02.2015 08:13;Zimmer 409 Rosengarten Kein Image Mate
+1356;benutzer132;Absenztool;2;supporter5;17.02.2015 13:30;Zugang KBS
+1357;benutzer31;Personalcomputer;3;supporter2;19.02.2015 11:32;Bildschirm-Stromkabel zischt/Display funktioniert nicht
+1358;benutzer169;Drucker;3;supporter2;19.02.2015 11:47;Drucken auf unseren Hauptdrucker GIGR 222 finktioniert nicht 
+1359;benutzer31;Anderes Tool;3;supporter2;19.02.2015 11:50;Benutzername und PW für neue Lernende
+1360;benutzer203;andere HW;2;supporter11;20.02.2015 08:25;Einstellung Fokus 
+1361;benutzer60;Personalcomputer;3;supporter2;23.02.2015 11:21;PC 5,12,20 sind unbrauchbar
+1362;benutzer60;Personalcomputer;2;supporter2;23.02.2015 14:50;Maus an GISO P03_20 defekt 
+1363;benutzer10;Drucker;2;supporter2;25.02.2015 12:14;Büro UO6 Drucker
+1364;benutzer172;andere HW;2;supporter2;25.02.2015 14:39;Maus defekt
+1365;benutzer148;Windows;2;supporter11;26.02.2015 10:38;PC P03_P24
+1366;benutzer172;Windows;3;supporter2;26.02.2015 13:13;DRINGEND: Zimmer 401
+1367;benutzer172;Windows;3;supporter2;26.02.2015 13:27;Zimmer 401
+1368;benutzer31;andere HW;3;supporter2;02.03.2015 09:40;Maus funktioniert nicht PC 24
+1369;supporter2;Personalcomputer;1;supporter2;02.03.2015 14:10;GISO_ARB - PC 01 out of order
+1370;benutzer111;Personalcomputer;3;supporter2;02.03.2015 15:02;Zimmer 204
+1371;benutzer44;Beamer;3;supporter11;04.03.2015 13:28;Bildqualität Beam
+1372;benutzer202;andere HW;2;supporter11;05.03.2015 08:04;Dokumentenkamera Zimmer 004
+1373;benutzer38;Personalcomputer;2;supporter11;05.03.2015 11:34;Stick-Steckplätze am PC
+1374;supporter6;Drucker;1;supporter11;05.03.2015 13:00;Plotter GIBS Gre
+1375;benutzer148;Drucker;1;supporter11;05.03.2015 17:05;hoch
+1376;benutzer20;PC-Programm;1;supporter10;06.03.2015 07:53;Hyperlink funtioniert nicht
+1377;benutzer116;Windows;2;supporter10;11.03.2015 13:59;Zi 404 pers. Laufwerk 
+1378;benutzer111;PC-Programm;2;supporter2;12.03.2015 08:44;Zimmer 204
+1380;benutzer20;Mail;2;supporter10;13.03.2015 08:06;Adresslsite Abteilung Gewerbe-Dienstleistung anpassen
+1381;benutzer180;andere HW;2;supporter11;16.03.2015 11:20;Bildschirm defekt?
+1382;benutzer190;Personenverwaltung;2;supporter2;17.03.2015 10:52;Account Streckeisen Beat
+1383;benutzer190;Personenverwaltung;2;supporter2;17.03.2015 10:54;Account Ruprecht Christine
+1384;benutzer172;Personalcomputer;2;supporter2;18.03.2015 14:52;Zimmer 405
+1385;benutzer172;Personalcomputer;2;supporter2;18.03.2015 14:53;Zimmer 405
+1386;benutzer172;PC-Programm;2;supporter2;18.03.2015 14:54;Zimmer 405
+1387;benutzer172;andere HW;2;supporter2;18.03.2015 14:55;Zimmer 405
+1388;benutzer73;Personalcomputer;3;supporter11;19.03.2015 16:38;PC kann nicht starten
+1389;benutzer79;andere HW;3;supporter11;20.03.2015 07:19;Dok.-Kamera verursacht Streifen im Bild
+1390;benutzer186;Windows;2;supporter2;20.03.2015 07:49;PC-Zimmer 502
+1391;benutzer180;PC-Programm;2;supporter2;23.03.2015 07:58;Pavillon PC-aum
+1392;benutzer79;andere HW;3;supporter11;23.03.2015 16:20;Dok Kamera verursacht Streifen im Bild
+1393;benutzer60;Windows;1;supporter2;24.03.2015 09:32;"\keine Originalkopie von Win7\"""""
+1394;benutzer60;Personalcomputer;2;supporter10;24.03.2015 09:35;Drucker nicht installiert
+1395;benutzer215;Lokales Netzwerk;1;supporter10;25.03.2015 13:38;Zugriff auf den Ordner erweiterte Schulleitung
+1396;benutzer190;Personenverwaltung;3;supporter2;27.03.2015 14:08;Account Rauber Michael
+1397;benutzer190;Personenverwaltung;3;supporter2;27.03.2015 14:09;Account Mimma Proto
+1398;benutzer172;Drucker;2;supporter2;02.04.2015 13:19;Drucker 308_P1
+1399;benutzer111;Personalcomputer;3;supporter2;21.04.2015 09:11;PC20405
+1400;supporter14;Lokales Netzwerk;3;supporter10;22.04.2015 14:42;Zugriffsrechte
+1401;benutzer31;Lokales Netzwerk;1;supporter2;23.04.2015 10:55;Kein Netz im Zimmer 311 BBZ GR
+1402;benutzer186;Lokales Netzwerk;1;supporter2;23.04.2015 13:01;Zimmer 502, KBS SO
+1403;benutzer172;Personalcomputer;1;supporter11;23.04.2015 15:02;Zimmer 401
+1404;benutzer60;Personalcomputer;1;supporter10;24.04.2015 08:36;Originalkopie... 
+1405;benutzer60;Personalcomputer;2;supporter10;24.04.2015 08:53;Rapid-Recovery
+1406;benutzer153;Drucker;2;supporter2;26.04.2015 12:23;Drucker Rosengarten 408
+1407;supporter14;Lokales Netzwerk;3;supporter10;27.04.2015 07:35;Lange Anmeldezeiten an der Domäne
+1408;benutzer148;Lokales Netzwerk;1;supporter2;27.04.2015 07:47;Kein Netzwerk im Pavillon
+1409;benutzer74;Drucker;2;supporter2;28.04.2015 10:36;Drucker Kopierer Grenchen
+1410;benutzer40;PC-Programm;2;supporter2;30.04.2015 13:39;Zimmer KBS 402
+1411;supporter2;Personalcomputer;1;supporter2;01.05.2015 11:35;Werkstatt PC
+1412;supporter11;Mail;2;supporter11;05.05.2015 16:57;Mail Ursula Rohn geht nicht
+1413;supporter10;Helpdesktool;3;supporter5;06.05.2015 13:17;Zeitsynchronisation
+1414;benutzer141;Personalcomputer;1;supporter11;07.05.2015 08:13;Aktualisierung
+1415;benutzer51;Personalcomputer;2;supporter10;07.05.2015 12:57;PC Raum 307 in Grenchen
+1416;benutzer160;Personalcomputer;2;supporter10;07.05.2015 15:16;Profil Peter Walter
+1417;benutzer154;Personalcomputer;2;supporter11;13.05.2015 13:37;Zi. 401, Roboter Nr. 3
+1418;benutzer131;Notenool;3;supporter5;15.05.2015 09:42;Gewichtung 25% einfügen?
+1419;supporter2;Notebook;1;supporter11;15.05.2015 11:30;P19 _ Notebook defekt
+1420;benutzer106;Lokales Netzwerk;2;supporter2;15.05.2015 13:11;Kein Zugriff auf Laufwerk x
+1421;benutzer56;Notebook;2;supporter11;20.05.2015 07:46;startet nicht mehr
+1423;benutzer137;Drucker;3;supporter2;20.05.2015 10:58;Toner für den Drucker: Laser Jet Pro 200 Color M251n
+1424;benutzer91;Personalcomputer;3;supporter11;21.05.2015 09:43;Schüler-Kennwort ändern
+1425;benutzer226;andere HW;1;supporter11;26.05.2015 07:59;Bezeichnungen Slots USB-Ports
+1426;benutzer60;Personalcomputer;2;supporter11;26.05.2015 09:56;3 PC bleiben hängen
+1427;benutzer190;Personenverwaltung;2;supporter10;28.05.2015 10:29;Account Obrist Thomas
+1428;benutzer190;Personenverwaltung;2;supporter10;28.05.2015 10:32;Account Liniger Simeon
+1429;benutzer116;Beamer;3;supporter10;28.05.2015 13:41;Kein Signal
+1430;benutzer186;Windows;3;supporter2;28.05.2015 15:16;Zi 502 - fehlende Ordner im Laufwerk P
+1432;benutzer190;Personenverwaltung;2;supporter2;29.05.2015 10:35;Account Zaugg Daniel
+1433;benutzer190;Personenverwaltung;2;supporter2;29.05.2015 10:49;Account Käch Beat
+1434;benutzer153;Personalcomputer;2;supporter2;31.05.2015 10:36;Malware eingefangen
+1435;benutzer128;Personalcomputer;3;supporter2;01.06.2015 06:54;"Status \sehr hoch\""! :-)"""
+1436;benutzer186;PC-Programm;3;supporter2;01.06.2015 08:13;PC - Zi 502
+1437;benutzer186;Lokales Netzwerk;3;supporter2;01.06.2015 09:33;PC-Zi 502
+1438;benutzer226;PC-Programm;1;supporter10;01.06.2015 12:37;Drucken aus Word
+1439;benutzer190;Personenverwaltung;2;supporter10;05.06.2015 11:17;Account Schumacher Beat
+1440;benutzer190;Personenverwaltung;2;supporter10;08.06.2015 10:43;Account Frey Stefan
